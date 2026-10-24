@@ -1,0 +1,2 @@
+audit_case_id,task_ids,occupation_title,task_statement,pass1_labels,pass2_labels,boundary,audit_finding,decision
+RI-001,22199; 22213,"Psychologists, All Other",Diagnose and treat pediatric populations for conditions such as learning disabilities with developmental or organic bases.,22199: Limited; 22213: Limited,22199: Augmentation; 22213: Limited,Augmentation–Limited,Genuine boundary ambiguity,Retain original labels and ambiguity flags

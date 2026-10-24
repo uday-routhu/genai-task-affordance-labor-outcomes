@@ -1,0 +1,831 @@
+AREA,NAICS,I_GROUP,OWN_CODE,OCC_CODE,OCC_TITLE,O_GROUP,TOT_EMP,H_MEAN,A_MEAN,H_MEDIAN,A_MEDIAN,soc6_source
+99,000000,cross-industry,1235,11-1011,Chief Executives,detailed,204350,129.63,269630,102.88,213990,11-1011
+99,000000,cross-industry,1235,11-1021,General and Operations Managers,detailed,3503020,64.87,134940,50.85,105770,11-1021
+99,000000,cross-industry,1235,11-2011,Advertising and Promotions Managers,detailed,21470,74.18,154280,64.26,133660,11-2011
+99,000000,cross-industry,1235,11-2021,Marketing Managers,detailed,395240,85.47,177770,80.19,166790,11-2021
+99,000000,cross-industry,1235,11-2022,Sales Managers,detailed,637080,79.02,164350,71.28,148270,11-2022
+99,000000,cross-industry,1235,11-2032,Public Relations Managers,detailed,74850,79.21,164760,70.63,146910,11-2032
+99,000000,cross-industry,1235,11-2033,Fundraising Managers,detailed,38810,67.32,140020,60.32,125470,11-2033
+99,000000,cross-industry,1235,11-3012,Administrative Services Managers,detailed,263960,62.44,129870,54.87,114130,11-3012
+99,000000,cross-industry,1235,11-3013,Facilities Managers,detailed,156180,56.2,116890,51.28,106660,11-3013
+99,000000,cross-industry,1235,11-3021,Computer and Information Systems Managers,detailed,670570,92.39,192160,84.2,175140,11-3021
+99,000000,cross-industry,1235,11-3031,Financial Managers,detailed,841710,89.86,186910,80.08,166570,11-3031
+99,000000,cross-industry,1235,11-3051,Industrial Production Managers,detailed,246250,64.5,134170,60.61,126060,11-3051
+99,000000,cross-industry,1235,11-3061,Purchasing Managers,detailed,84320,75.17,156360,71.19,148080,11-3061
+99,000000,cross-industry,1235,11-3071,"Transportation, Storage, and Distribution Managers",detailed,221180,58.46,121600,51.55,107230,11-3071
+99,000000,cross-industry,1235,11-3111,Compensation and Benefits Managers,detailed,22940,78.19,162640,71.75,149230,11-3111
+99,000000,cross-industry,1235,11-3121,Human Resources Managers,detailed,220660,78.96,164230,71.77,149280,11-3121
+99,000000,cross-industry,1235,11-3131,Training and Development Managers,detailed,48050,71.33,148370,63.94,133000,11-3131
+99,000000,cross-industry,1235,11-9013,"Farmers, Ranchers, and Other Agricultural Managers",detailed,6500,47.99,99820,43.22,89900,11-9013
+99,000000,cross-industry,1235,11-9021,Construction Managers,detailed,380360,59.79,124360,55.28,114990,11-9021
+99,000000,cross-industry,1235,11-9031,"Education and Childcare Administrators, Preschool and Daycare",detailed,73660,31.15,64800,28.51,59300,11-9031
+99,000000,cross-industry,1235,11-9032,"Education Administrators, Kindergarten through Secondary",detailed,328330,*,116100,*,105870,11-9032
+99,000000,cross-industry,1235,11-9033,"Education Administrators, Postsecondary",detailed,180470,60.84,126540,50.29,104590,11-9033
+99,000000,cross-industry,1235,11-9039,"Education Administrators, All Other",detailed,55130,48.99,101900,45.77,95200,11-9039
+99,000000,cross-industry,1235,11-9041,Architectural and Engineering Managers,detailed,220260,87.28,181540,82.34,171270,11-9041
+99,000000,cross-industry,1235,11-9051,Food Service Managers,detailed,238430,36,74880,33.36,69390,11-9051
+99,000000,cross-industry,1235,11-9071,Gambling Managers,detailed,5030,49.54,103050,44.82,93220,11-9071
+99,000000,cross-industry,1235,11-9072,"Entertainment and Recreation Managers, Except Gambling",detailed,37980,43.15,89750,38.23,79520,11-9072
+99,000000,cross-industry,1235,11-9081,Lodging Managers,detailed,42620,37.86,78740,33.29,69250,11-9081
+99,000000,cross-industry,1235,11-9111,Medical and Health Services Managers,detailed,597080,67.77,140970,59.55,123860,11-9111
+99,000000,cross-industry,1235,11-9121,Natural Sciences Managers,detailed,108690,86.66,180250,80.39,167220,11-9121
+99,000000,cross-industry,1235,11-9131,Postmasters and Mail Superintendents,detailed,13810,46.81,97360,46.47,96660,11-9131
+99,000000,cross-industry,1235,11-9141,"Property, Real Estate, and Community Association Managers",detailed,311180,40.25,83710,33.65,69990,11-9141
+99,000000,cross-industry,1235,11-9151,Social and Community Service Managers,detailed,209330,42.73,88880,38.65,80390,11-9151
+99,000000,cross-industry,1235,11-9161,Emergency Management Directors,detailed,13500,49.24,102420,44.87,93330,11-9161
+99,000000,cross-industry,1235,11-9171,Funeral Home Managers,detailed,13910,44.63,92840,37.88,78790,11-9171
+99,000000,cross-industry,1235,11-9179,"Personal Service Managers, All Other",detailed,10450,37.59,78190,33.54,69770,11-9179
+99,000000,cross-industry,1235,11-9199,"Managers, All Other",detailed,622190,73.99,153890,68.22,141900,11-9199
+99,000000,cross-industry,1235,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",detailed,12620,68.07,141580,39.85,82890,13-1011
+99,000000,cross-industry,1235,13-1020,Buyers and Purchasing Agents,detailed,491430,40.27,83770,37.36,77710,13-1020
+99,000000,cross-industry,1235,13-1031,"Claims Adjusters, Examiners, and Investigators",detailed,324230,38.69,80470,37.5,78000,13-1031
+99,000000,cross-industry,1235,13-1032,"Insurance Appraisers, Auto Damage",detailed,11560,37.93,78900,37.61,78240,13-1032
+99,000000,cross-industry,1235,13-1041,Compliance Officers,detailed,417070,42.5,88400,38.81,80730,13-1041
+99,000000,cross-industry,1235,13-1051,Cost Estimators,detailed,224220,41.06,85390,37.86,78740,13-1051
+99,000000,cross-industry,1235,13-1071,Human Resources Specialists,detailed,912430,39.42,81990,36.51,75940,13-1071
+99,000000,cross-industry,1235,13-1074,Farm Labor Contractors,detailed,310,28.11,58470,28.11,58460,13-1074
+99,000000,cross-industry,1235,13-1075,Labor Relations Specialists,detailed,64810,47.46,98720,45.87,95420,13-1075
+99,000000,cross-industry,1235,13-1081,Logisticians,detailed,251040,43.14,89730,39.58,82320,13-1081
+99,000000,cross-industry,1235,13-1082,Project Management Specialists,detailed,1066670,53.24,110740,49.19,102320,13-1082
+99,000000,cross-industry,1235,13-1111,Management Analysts,detailed,898280,54.71,113790,48.97,101860,13-1111
+99,000000,cross-industry,1235,13-1121,"Meeting, Convention, and Event Planners",detailed,142860,31.98,66520,29.41,61160,13-1121
+99,000000,cross-industry,1235,13-1131,Fundraisers,detailed,111040,37.12,77200,34.88,72550,13-1131
+99,000000,cross-industry,1235,13-1141,"Compensation, Benefits, and Job Analysis Specialists",detailed,112380,40.54,84330,37.6,78210,13-1141
+99,000000,cross-industry,1235,13-1151,Training and Development Specialists,detailed,458300,36.32,75550,33.31,69280,13-1151
+99,000000,cross-industry,1235,13-1161,Market Research Analysts and Marketing Specialists,detailed,899580,43.03,89490,37.87,78760,13-1161
+99,000000,cross-industry,1235,13-1199,"Business Operations Specialists, All Other",detailed,1087090,45.18,93970,39.93,83050,13-1199
+99,000000,cross-industry,1235,13-2011,Accountants and Auditors,detailed,1449500,45.56,94750,40.23,83680,13-2011
+99,000000,cross-industry,1235,13-2020,Property Appraisers and Assessors,detailed,57070,36.43,75770,32.67,67960,13-2020
+99,000000,cross-industry,1235,13-2031,Budget Analysts,detailed,47160,46.33,96370,44.06,91640,13-2031
+99,000000,cross-industry,1235,13-2041,Credit Analysts,detailed,64390,48.49,100850,40.15,83510,13-2041
+99,000000,cross-industry,1235,13-2051,Financial and Investment Analysts,detailed,361980,56.15,116800,49.4,102740,13-2051
+99,000000,cross-industry,1235,13-2052,Personal Financial Advisors,detailed,266800,75.32,156670,50.51,105070,13-2052
+99,000000,cross-industry,1235,13-2053,Insurance Underwriters,detailed,105420,45.05,93700,39.12,81370,13-2053
+99,000000,cross-industry,1235,13-2054,Financial Risk Specialists,detailed,63850,59.82,124420,56.41,117330,13-2054
+99,000000,cross-industry,1235,13-2061,Financial Examiners,detailed,67830,51.08,106240,45.27,94160,13-2061
+99,000000,cross-industry,1235,13-2071,Credit Counselors,detailed,27770,27.51,57210,25.11,52230,13-2071
+99,000000,cross-industry,1235,13-2072,Loan Officers,detailed,274330,42.21,87790,36.87,76690,13-2072
+99,000000,cross-industry,1235,13-2081,"Tax Examiners and Collectors, and Revenue Agents",detailed,56610,33.91,70520,29.98,62370,13-2081
+99,000000,cross-industry,1235,13-2082,Tax Preparers,detailed,76480,29.3,60930,26.4,54920,13-2082
+99,000000,cross-industry,1235,13-2099,"Financial Specialists, All Other",detailed,132130,45.1,93810,38.99,81100,13-2099
+99,000000,cross-industry,1235,15-1211,Computer Systems Analysts,detailed,519530,55.1,114610,50.89,105850,15-1211
+99,000000,cross-industry,1235,15-1212,Information Security Analysts,detailed,190650,63.71,132510,62.11,129180,15-1212
+99,000000,cross-industry,1235,15-1221,Computer and Information Research Scientists,detailed,37200,74,153930,67.45,140300,15-1221
+99,000000,cross-industry,1235,15-1231,Computer Network Support Specialists,detailed,146190,39.36,81870,36.64,76220,15-1231
+99,000000,cross-industry,1235,15-1232,Computer User Support Specialists,detailed,717190,32.37,67330,29.74,61860,15-1232
+99,000000,cross-industry,1235,15-1241,Computer Network Architects,detailed,179740,67.11,139580,64.45,134050,15-1241
+99,000000,cross-industry,1235,15-1242,Database Administrators,detailed,69990,52.93,110090,50.3,104620,15-1242
+99,000000,cross-industry,1235,15-1243,Database Architects,detailed,67140,69.44,144440,67.07,139500,15-1243
+99,000000,cross-industry,1235,15-1244,Network and Computer Systems Administrators,detailed,314340,49.85,103680,47.66,99130,15-1244
+99,000000,cross-industry,1235,15-1251,Computer Programmers,detailed,92230,50.56,105170,48.26,100390,15-1251
+99,000000,cross-industry,1235,15-1252,Software Developers,detailed,1687890,71.2,148100,65.38,135980,15-1252
+99,000000,cross-industry,1235,15-1253,Software Quality Assurance Analysts and Testers,detailed,186740,53.6,111490,50.14,104300,15-1253
+99,000000,cross-industry,1235,15-1254,Web Developers,detailed,70190,47.49,98770,44.54,92650,15-1254
+99,000000,cross-industry,1235,15-1255,Web and Digital Interface Designers,detailed,113330,56.49,117490,50,104000,15-1255
+99,000000,cross-industry,1235,15-1299,"Computer Occupations, All Other",detailed,435370,58.77,122230,56.05,116580,15-1299
+99,000000,cross-industry,1235,15-2011,Actuaries,detailed,26670,68.02,141480,62.5,130000,15-2011
+99,000000,cross-industry,1235,15-2021,Mathematicians,detailed,2030,62.15,129260,60.92,126710,15-2021
+99,000000,cross-industry,1235,15-2031,Operations Research Analysts,detailed,108510,47.95,99730,42.76,88940,15-2031
+99,000000,cross-industry,1235,15-2041,Statisticians,detailed,29030,55.63,115700,50.79,105650,15-2041
+99,000000,cross-industry,1235,15-2051,Data Scientists,detailed,262440,60.96,126800,57.8,120230,15-2051
+99,000000,cross-industry,1235,15-2099,"Mathematical Science Occupations, All Other",detailed,3720,44.02,91550,39.18,81490,15-2099
+99,000000,cross-industry,1235,17-1011,"Architects, Except Landscape and Naval",detailed,106770,51.09,106260,47.73,99280,17-1011
+99,000000,cross-industry,1235,17-1012,Landscape Architects,detailed,19600,42.68,88780,38.4,79870,17-1012
+99,000000,cross-industry,1235,17-1021,Cartographers and Photogrammetrists,detailed,14260,41.68,86690,39.13,81390,17-1021
+99,000000,cross-industry,1235,17-1022,Surveyors,detailed,50830,38.73,80570,36.27,75440,17-1022
+99,000000,cross-industry,1235,17-2011,Aerospace Engineers,detailed,67710,68.3,142060,64.89,134960,17-2011
+99,000000,cross-industry,1235,17-2021,Agricultural Engineers,detailed,1480,52.04,108230,47.4,98590,17-2021
+99,000000,cross-industry,1235,17-2031,Bioengineers and Biomedical Engineers,detailed,23480,56.2,116890,52.58,109370,17-2031
+99,000000,cross-industry,1235,17-2041,Chemical Engineers,detailed,21070,62.49,129980,60.12,125040,17-2041
+99,000000,cross-industry,1235,17-2051,Civil Engineers,detailed,367840,52.24,108670,48.48,100840,17-2051
+99,000000,cross-industry,1235,17-2061,Computer Hardware Engineers,detailed,76660,78.21,162670,77.76,161740,17-2061
+99,000000,cross-industry,1235,17-2071,Electrical Engineers,detailed,198750,60.15,125100,58,120630,17-2071
+99,000000,cross-industry,1235,17-2072,"Electronics Engineers, Except Computer",detailed,96900,66,137280,62.6,130220,17-2072
+99,000000,cross-industry,1235,17-2081,Environmental Engineers,detailed,38340,54.29,112910,51.5,107110,17-2081
+99,000000,cross-industry,1235,17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",detailed,21450,57.58,119770,55.36,115160,17-2111
+99,000000,cross-industry,1235,17-2112,Industrial Engineers,detailed,365740,52.84,109900,49.25,102440,17-2112
+99,000000,cross-industry,1235,17-2121,Marine Engineers and Naval Architects,detailed,8250,59.7,124180,53.96,112230,17-2121
+99,000000,cross-industry,1235,17-2131,Materials Engineers,detailed,22770,57.81,120250,54.26,112860,17-2131
+99,000000,cross-industry,1235,17-2141,Mechanical Engineers,detailed,296810,54.62,113610,50.05,104110,17-2141
+99,000000,cross-industry,1235,17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",detailed,6080,55.49,115410,51.07,106220,17-2151
+99,000000,cross-industry,1235,17-2161,Nuclear Engineers,detailed,15280,67.51,140420,64.41,133970,17-2161
+99,000000,cross-industry,1235,17-2171,Petroleum Engineers,detailed,18060,75.55,157150,69.67,144910,17-2171
+99,000000,cross-industry,1235,17-2199,"Engineers, All Other",detailed,154070,60.26,125330,59.1,122930,17-2199
+99,000000,cross-industry,1235,17-3011,Architectural and Civil Drafters,detailed,103700,34.01,70740,31.8,66150,17-3011
+99,000000,cross-industry,1235,17-3012,Electrical and Electronics Drafters,detailed,17920,39.08,81280,36.96,76870,17-3012
+99,000000,cross-industry,1235,17-3013,Mechanical Drafters,detailed,39960,36.09,75060,34.4,71550,17-3013
+99,000000,cross-industry,1235,17-3019,"Drafters, All Other",detailed,14470,32.81,68250,30.54,63520,17-3019
+99,000000,cross-industry,1235,17-3021,Aerospace Engineering and Operations Technologists and Technicians,detailed,11280,43.9,91310,39.85,82890,17-3021
+99,000000,cross-industry,1235,17-3022,Civil Engineering Technologists and Technicians,detailed,68520,33.17,68990,31.23,64950,17-3022
+99,000000,cross-industry,1235,17-3023,Electrical and Electronic Engineering Technologists and Technicians,detailed,95130,38.79,80680,37.59,78190,17-3023
+99,000000,cross-industry,1235,17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,detailed,15520,36.74,76420,35.53,73900,17-3024
+99,000000,cross-industry,1235,17-3025,Environmental Engineering Technologists and Technicians,detailed,12190,31.19,64870,28.81,59920,17-3025
+99,000000,cross-industry,1235,17-3026,Industrial Engineering Technologists and Technicians,detailed,75570,33.99,70700,31.79,66120,17-3026
+99,000000,cross-industry,1235,17-3027,Mechanical Engineering Technologists and Technicians,detailed,36190,36.72,76380,35.82,74510,17-3027
+99,000000,cross-industry,1235,17-3028,Calibration Technologists and Technicians,detailed,16540,35.66,74170,32.61,67820,17-3028
+99,000000,cross-industry,1235,17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",detailed,59930,38.93,80960,37.67,78350,17-3029
+99,000000,cross-industry,1235,17-3031,Surveying and Mapping Technicians,detailed,58010,27.89,58000,26.08,54240,17-3031
+99,000000,cross-industry,1235,19-1011,Animal Scientists,detailed,3100,42.48,88350,33.14,68940,19-1011
+99,000000,cross-industry,1235,19-1012,Food Scientists and Technologists,detailed,13060,45.85,95360,42.65,88720,19-1012
+99,000000,cross-industry,1235,19-1013,Soil and Plant Scientists,detailed,15730,42.17,87720,37.91,78850,19-1013
+99,000000,cross-industry,1235,19-1021,Biochemists and Biophysicists,detailed,33830,62.43,129840,61.26,127410,19-1021
+99,000000,cross-industry,1235,19-1022,Microbiologists,detailed,18940,46.92,97600,42.3,87990,19-1022
+99,000000,cross-industry,1235,19-1023,Zoologists and Wildlife Biologists,detailed,18120,39.91,83020,36.91,76780,19-1023
+99,000000,cross-industry,1235,19-1029,"Biological Scientists, All Other",detailed,55850,51.12,106330,47.56,98920,19-1029
+99,000000,cross-industry,1235,19-1031,Conservation Scientists,detailed,25950,37.08,77130,35.1,73010,19-1031
+99,000000,cross-industry,1235,19-1032,Foresters,detailed,10430,38.06,79170,36.73,76400,19-1032
+99,000000,cross-industry,1235,19-1041,Epidemiologists,detailed,12090,47.06,97890,41.93,87220,19-1041
+99,000000,cross-industry,1235,19-1042,"Medical Scientists, Except Epidemiologists",detailed,172340,56.18,116840,49.72,103410,19-1042
+99,000000,cross-industry,1235,19-1099,"Life Scientists, All Other",detailed,7460,51.86,107860,45.07,93750,19-1099
+99,000000,cross-industry,1235,19-2011,Astronomers,detailed,2120,63.91,132920,61.94,128820,19-2011
+99,000000,cross-industry,1235,19-2012,Physicists,detailed,20430,82.3,171180,82.81,172250,19-2012
+99,000000,cross-industry,1235,19-2021,Atmospheric and Space Scientists,detailed,10000,51.01,106110,47.63,99070,19-2021
+99,000000,cross-industry,1235,19-2031,Chemists,detailed,82770,48.29,100450,43.87,91240,19-2031
+99,000000,cross-industry,1235,19-2032,Materials Scientists,detailed,8470,60.67,126180,56.63,117790,19-2032
+99,000000,cross-industry,1235,19-2041,"Environmental Scientists and Specialists, Including Health",detailed,89250,44.08,91680,39.53,82220,19-2041
+99,000000,cross-industry,1235,19-2042,"Geoscientists, Except Hydrologists and Geographers",detailed,23470,55.84,116150,49,101920,19-2042
+99,000000,cross-industry,1235,19-2043,Hydrologists,detailed,5850,49.81,103600,46.44,96600,19-2043
+99,000000,cross-industry,1235,19-2099,"Physical Scientists, All Other",detailed,22300,62.13,129230,58.93,122570,19-2099
+99,000000,cross-industry,1235,19-3011,Economists,detailed,17790,68.33,142130,59.96,124720,19-3011
+99,000000,cross-industry,1235,19-3022,Survey Researchers,detailed,8290,38.26,79580,33.4,69460,19-3022
+99,000000,cross-industry,1235,19-3032,Industrial-Organizational Psychologists,detailed,790,81.84,170230,93.24,193950,19-3032
+99,000000,cross-industry,1235,19-3033,Clinical and Counseling Psychologists,detailed,75990,54.21,112750,48.36,100580,19-3033
+99,000000,cross-industry,1235,19-3034,School Psychologists,detailed,63940,47.67,99160,46.15,95990,19-3034
+99,000000,cross-industry,1235,19-3039,"Psychologists, All Other",detailed,18820,53.47,111210,53.29,110840,19-3039
+99,000000,cross-industry,1235,19-3041,Sociologists,detailed,2260,55.25,114920,50.98,106030,19-3041
+99,000000,cross-industry,1235,19-3051,Urban and Regional Planners,detailed,44230,45.55,94750,42.94,89320,19-3051
+99,000000,cross-industry,1235,19-3091,Anthropologists and Archeologists,detailed,8990,36.35,75620,34.02,70770,19-3091
+99,000000,cross-industry,1235,19-3092,Geographers,detailed,1400,49.21,102350,49.06,102040,19-3092
+99,000000,cross-industry,1235,19-3093,Historians,detailed,3450,39.06,81240,36.9,76750,19-3093
+99,000000,cross-industry,1235,19-3094,Political Scientists,detailed,5540,68.51,142510,68.31,142080,19-3094
+99,000000,cross-industry,1235,19-3099,"Social Scientists and Related Workers, All Other",detailed,37100,51.78,107690,48.61,101110,19-3099
+99,000000,cross-industry,1235,19-4012,Agricultural Technicians,detailed,15130,25.89,53840,23.86,49630,19-4012
+99,000000,cross-industry,1235,19-4013,Food Science Technicians,detailed,14600,27.24,56660,25.06,52130,19-4013
+99,000000,cross-industry,1235,19-4021,Biological Technicians,detailed,69620,29.51,61380,27.65,57510,19-4021
+99,000000,cross-industry,1235,19-4031,Chemical Technicians,detailed,57540,30.72,63900,29.03,60390,19-4031
+99,000000,cross-industry,1235,19-4042,"Environmental Science and Protection Technicians, Including Health",detailed,34670,29.23,60800,26.49,55090,19-4042
+99,000000,cross-industry,1235,19-4043,"Geological Technicians, Except Hydrologic Technicians",detailed,6980,29.75,61870,25.65,53350,19-4043
+99,000000,cross-industry,1235,19-4044,Hydrologic Technicians,detailed,2840,33.43,69530,31.15,64790,19-4044
+99,000000,cross-industry,1235,19-4051,Nuclear Technicians,detailed,6470,52.37,108940,53,110240,19-4051
+99,000000,cross-industry,1235,19-4061,Social Science Research Assistants,detailed,30640,31.8,66140,29.81,61990,19-4061
+99,000000,cross-industry,1235,19-4071,Forest and Conservation Technicians,detailed,30410,28.39,59060,26.23,54560,19-4071
+99,000000,cross-industry,1235,19-4092,Forensic Science Technicians,detailed,19120,38.08,79200,34.65,72060,19-4092
+99,000000,cross-industry,1235,19-4099,"Life, Physical, and Social Science Technicians, All Other",detailed,73910,31.86,66280,29.94,62280,19-4099
+99,000000,cross-industry,1235,19-5011,Occupational Health and Safety Specialists,detailed,140610,45.12,93860,43.34,90150,19-5011
+99,000000,cross-industry,1235,19-5012,Occupational Health and Safety Technicians,detailed,30590,32.75,68120,29.59,61560,19-5012
+99,000000,cross-industry,1235,21-1012,"Educational, Guidance, and Career Counselors and Advisors",detailed,353310,34.34,71430,30.93,64330,21-1012
+99,000000,cross-industry,1235,21-1013,Marriage and Family Therapists,detailed,66740,37,76960,32.18,66940,21-1013
+99,000000,cross-industry,1235,21-1015,Rehabilitation Counselors,detailed,94740,24.91,51820,22.52,46850,21-1015
+99,000000,cross-industry,1235,21-1018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",detailed,491930,30.98,64440,28.53,59350,21-1018
+99,000000,cross-industry,1235,21-1019,"Counselors, All Other",detailed,28580,27.99,58210,24.45,50860,21-1019
+99,000000,cross-industry,1235,21-1021,"Child, Family, and School Social Workers",detailed,392550,30.77,64000,28.63,59550,21-1021
+99,000000,cross-industry,1235,21-1022,Healthcare Social Workers,detailed,187630,34.51,71790,32.63,67880,21-1022
+99,000000,cross-industry,1235,21-1023,Mental Health and Substance Abuse Social Workers,detailed,132810,32.71,68030,28.98,60280,21-1023
+99,000000,cross-industry,1235,21-1029,"Social Workers, All Other",detailed,62930,36.5,75910,34.57,71900,21-1029
+99,000000,cross-industry,1235,21-1091,Health Education Specialists,detailed,65690,35.23,73280,30.8,64070,21-1091
+99,000000,cross-industry,1235,21-1092,Probation Officers and Correctional Treatment Specialists,detailed,89390,35.16,73130,31.86,66270,21-1092
+99,000000,cross-industry,1235,21-1093,Social and Human Service Assistants,detailed,437860,22.93,47690,22.08,45930,21-1093
+99,000000,cross-industry,1235,21-1094,Community Health Workers,detailed,61660,27.01,56180,24.93,51850,21-1094
+99,000000,cross-industry,1235,21-1099,"Community and Social Service Specialists, All Other",detailed,107730,28.65,59590,27.28,56730,21-1099
+99,000000,cross-industry,1235,21-2011,Clergy,detailed,57200,32.15,66860,29.24,60810,21-2011
+99,000000,cross-industry,1235,21-2021,"Directors, Religious Activities and Education",detailed,22160,29.86,62100,25.05,52100,21-2021
+99,000000,cross-industry,1235,21-2099,"Religious Workers, All Other",detailed,15760,25.9,53870,21.77,45280,21-2099
+99,000000,cross-industry,1235,23-1011,Lawyers,detailed,754500,89.35,185840,76.76,159670,23-1011
+99,000000,cross-industry,1235,23-1012,Judicial Law Clerks,detailed,13290,35.07,72950,31.21,64920,23-1012
+99,000000,cross-industry,1235,23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",detailed,16370,60.57,125990,56.67,117860,23-1021
+99,000000,cross-industry,1235,23-1022,"Arbitrators, Mediators, and Conciliators",detailed,9210,43.76,91010,36.31,75530,23-1022
+99,000000,cross-industry,1235,23-1023,"Judges, Magistrate Judges, and Magistrates",detailed,24030,69.15,143830,74.03,153990,23-1023
+99,000000,cross-industry,1235,23-2011,Paralegals and Legal Assistants,detailed,392880,33.51,69700,30.24,62890,23-2011
+99,000000,cross-industry,1235,23-2093,"Title Examiners, Abstractors, and Searchers",detailed,48580,29.97,62350,28.2,58650,23-2093
+99,000000,cross-industry,1235,23-2099,"Legal Support Workers, All Other",detailed,46760,43.1,89660,34.67,72110,23-2099
+99,000000,cross-industry,1235,25-1011,"Business Teachers, Postsecondary",detailed,82150,*,114720,*,99080,25-1011
+99,000000,cross-industry,1235,25-1021,"Computer Science Teachers, Postsecondary",detailed,35480,*,104420,*,96980,25-1021
+99,000000,cross-industry,1235,25-1022,"Mathematical Science Teachers, Postsecondary",detailed,47670,*,91550,*,79940,25-1022
+99,000000,cross-industry,1235,25-1031,"Architecture Teachers, Postsecondary",detailed,7700,*,101250,*,96870,25-1031
+99,000000,cross-industry,1235,25-1032,"Engineering Teachers, Postsecondary",detailed,40270,*,124520,*,109270,25-1032
+99,000000,cross-industry,1235,25-1041,"Agricultural Sciences Teachers, Postsecondary",detailed,8920,*,102050,*,98700,25-1041
+99,000000,cross-industry,1235,25-1042,"Biological Science Teachers, Postsecondary",detailed,50190,*,102840,*,84620,25-1042
+99,000000,cross-industry,1235,25-1043,"Forestry and Conservation Science Teachers, Postsecondary",detailed,1520,*,102450,*,101420,25-1043
+99,000000,cross-industry,1235,25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",detailed,9900,*,116020,*,103170,25-1051
+99,000000,cross-industry,1235,25-1052,"Chemistry Teachers, Postsecondary",detailed,19980,*,105210,*,93250,25-1052
+99,000000,cross-industry,1235,25-1053,"Environmental Science Teachers, Postsecondary",detailed,6690,*,103610,*,94980,25-1053
+99,000000,cross-industry,1235,25-1054,"Physics Teachers, Postsecondary",detailed,13090,*,111460,*,100310,25-1054
+99,000000,cross-industry,1235,25-1061,"Anthropology and Archeology Teachers, Postsecondary",detailed,5240,*,106880,*,99650,25-1061
+99,000000,cross-industry,1235,25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",detailed,11300,*,98330,*,85020,25-1062
+99,000000,cross-industry,1235,25-1063,"Economics Teachers, Postsecondary",detailed,11560,*,138850,*,123920,25-1063
+99,000000,cross-industry,1235,25-1064,"Geography Teachers, Postsecondary",detailed,3330,*,102350,*,97590,25-1064
+99,000000,cross-industry,1235,25-1065,"Political Science Teachers, Postsecondary",detailed,16970,*,108100,*,98070,25-1065
+99,000000,cross-industry,1235,25-1066,"Psychology Teachers, Postsecondary",detailed,41530,*,93860,*,80340,25-1066
+99,000000,cross-industry,1235,25-1067,"Sociology Teachers, Postsecondary",detailed,11850,*,96980,*,84290,25-1067
+99,000000,cross-industry,1235,25-1069,"Social Sciences Teachers, Postsecondary, All Other",detailed,16580,*,88390,*,72990,25-1069
+99,000000,cross-industry,1235,25-1071,"Health Specialties Teachers, Postsecondary",detailed,221270,*,147570,*,107310,25-1071
+99,000000,cross-industry,1235,25-1072,"Nursing Instructors and Teachers, Postsecondary",detailed,77960,*,86410,*,80250,25-1072
+99,000000,cross-industry,1235,25-1081,"Education Teachers, Postsecondary",detailed,60830,*,79350,*,75350,25-1081
+99,000000,cross-industry,1235,25-1082,"Library Science Teachers, Postsecondary",detailed,3630,*,88110,*,80340,25-1082
+99,000000,cross-industry,1235,25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",detailed,13150,*,87550,*,76590,25-1111
+99,000000,cross-industry,1235,25-1112,"Law Teachers, Postsecondary",detailed,20060,*,144770,*,128500,25-1112
+99,000000,cross-industry,1235,25-1113,"Social Work Teachers, Postsecondary",detailed,12610,*,83940,*,77570,25-1113
+99,000000,cross-industry,1235,25-1121,"Art, Drama, and Music Teachers, Postsecondary",detailed,93560,*,94700,*,78620,25-1121
+99,000000,cross-industry,1235,25-1122,"Communications Teachers, Postsecondary",detailed,29420,*,90010,*,78580,25-1122
+99,000000,cross-industry,1235,25-1123,"English Language and Literature Teachers, Postsecondary",detailed,57720,*,89580,*,78760,25-1123
+99,000000,cross-industry,1235,25-1124,"Foreign Language and Literature Teachers, Postsecondary",detailed,19830,*,89990,*,79350,25-1124
+99,000000,cross-industry,1235,25-1125,"History Teachers, Postsecondary",detailed,18790,*,96580,*,83820,25-1125
+99,000000,cross-industry,1235,25-1126,"Philosophy and Religion Teachers, Postsecondary",detailed,20460,*,92040,*,80260,25-1126
+99,000000,cross-industry,1235,25-1192,"Family and Consumer Sciences Teachers, Postsecondary",detailed,2770,*,81940,*,75870,25-1192
+99,000000,cross-industry,1235,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",detailed,12630,*,86620,*,77270,25-1193
+99,000000,cross-industry,1235,25-1194,"Career/Technical Education Teachers, Postsecondary",detailed,114110,34.64,72060,30.68,63820,25-1194
+99,000000,cross-industry,1235,25-1199,"Postsecondary Teachers, All Other",detailed,149840,*,90630,*,77640,25-1199
+99,000000,cross-industry,1235,25-2011,"Preschool Teachers, Except Special Education",detailed,478780,20.69,43030,18.34,38140,25-2011
+99,000000,cross-industry,1235,25-2012,"Kindergarten Teachers, Except Special Education",detailed,108870,*,69370,*,62680,25-2012
+99,000000,cross-industry,1235,25-2021,"Elementary School Teachers, Except Special Education",detailed,1388390,*,72650,*,63970,25-2021
+99,000000,cross-industry,1235,25-2022,"Middle School Teachers, Except Special and Career/Technical Education",detailed,620090,*,72030,*,64370,25-2022
+99,000000,cross-industry,1235,25-2023,"Career/Technical Education Teachers, Middle School",detailed,16870,*,71590,*,65030,25-2023
+99,000000,cross-industry,1235,25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",detailed,1065210,*,76320,*,72040,25-2031
+99,000000,cross-industry,1235,25-2032,"Career/Technical Education Teachers, Secondary School",detailed,111420,*,72680,*,66270,25-2032
+99,000000,cross-industry,1235,25-2051,"Special Education Teachers, Preschool",detailed,29510,*,76380,*,64830,25-2051
+99,000000,cross-industry,1235,25-2052,"Special Education Teachers, Kindergarten and Elementary School",detailed,260870,*,72650,*,65120,25-2052
+99,000000,cross-industry,1235,25-2057,"Special Education Teachers, Middle School",detailed,95200,*,73780,*,66810,25-2057
+99,000000,cross-industry,1235,25-2058,"Special Education Teachers, Secondary School",detailed,163930,*,77260,*,74260,25-2058
+99,000000,cross-industry,1235,25-2059,"Special Education Teachers, All Other",detailed,33930,*,79750,*,76580,25-2059
+99,000000,cross-industry,1235,25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",detailed,37310,31.66,65860,29.59,61540,25-3011
+99,000000,cross-industry,1235,25-3021,Self-Enrichment Teachers,detailed,332110,26.32,54740,22.5,46800,25-3021
+99,000000,cross-industry,1235,25-3031,"Substitute Teachers, Short-Term",detailed,524770,22.32,46420,20.03,41670,25-3031
+99,000000,cross-industry,1235,25-3041,Tutors,detailed,175070,23.1,48050,20.84,43350,25-3041
+99,000000,cross-industry,1235,25-3099,"Teachers and Instructors, All Other",detailed,113790,*,73880,*,66140,25-3099
+99,000000,cross-industry,1235,25-4011,Archivists,detailed,7970,33.96,70640,31.03,64550,25-4011
+99,000000,cross-industry,1235,25-4012,Curators,detailed,12150,34.4,71560,30.49,63420,25-4012
+99,000000,cross-industry,1235,25-4013,Museum Technicians and Conservators,detailed,12310,27.6,57410,24.73,51440,25-4013
+99,000000,cross-industry,1235,25-4022,Librarians and Media Collections Specialists,detailed,133790,35.02,72840,32.82,68270,25-4022
+99,000000,cross-industry,1235,25-4031,Library Technicians,detailed,68690,21.88,45500,21.43,44580,25-4031
+99,000000,cross-industry,1235,25-9021,Farm and Home Management Educators,detailed,8220,29.35,61060,28.95,60220,25-9021
+99,000000,cross-industry,1235,25-9031,Instructional Coordinators,detailed,227760,38.9,80920,37.23,77440,25-9031
+99,000000,cross-industry,1235,25-9044,"Teaching Assistants, Postsecondary",detailed,164090,*,47670,*,42910,25-9044
+99,000000,cross-industry,1235,25-9045,"Teaching Assistants, Except Postsecondary",detailed,1420350,*,38290,*,36780,25-9045
+99,000000,cross-industry,1235,25-9099,"Educational Instruction and Library Workers, All Other",detailed,118590,28.39,59060,24.47,50890,25-9099
+99,000000,cross-industry,1235,27-1011,Art Directors,detailed,53070,62.23,129440,55.22,114850,27-1011
+99,000000,cross-industry,1235,27-1012,Craft Artists,detailed,4580,23.91,49740,22.15,46080,27-1012
+99,000000,cross-industry,1235,27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",detailed,11220,35.17,73150,26.68,55490,27-1013
+99,000000,cross-industry,1235,27-1014,Special Effects Artists and Animators,detailed,19970,54.27,112870,49.06,102030,27-1014
+99,000000,cross-industry,1235,27-1019,"Artists and Related Workers, All Other",detailed,6930,38.72,80530,34.25,71240,27-1019
+99,000000,cross-industry,1235,27-1021,Commercial and Industrial Designers,detailed,33490,44.84,93260,40.34,83910,27-1021
+99,000000,cross-industry,1235,27-1022,Fashion Designers,detailed,21450,43.86,91230,38.92,80960,27-1022
+99,000000,cross-industry,1235,27-1023,Floral Designers,detailed,40590,19,39520,17.96,37360,27-1023
+99,000000,cross-industry,1235,27-1024,Graphic Designers,detailed,197830,33.92,70560,30.27,62960,27-1024
+99,000000,cross-industry,1235,27-1025,Interior Designers,detailed,71500,35.84,74540,32.31,67190,27-1025
+99,000000,cross-industry,1235,27-1026,Merchandise Displayers and Window Trimmers,detailed,165220,20.59,42830,18.94,39390,27-1026
+99,000000,cross-industry,1235,27-1027,Set and Exhibit Designers,detailed,10630,39.98,83160,36.17,75240,27-1027
+99,000000,cross-industry,1235,27-1029,"Designers, All Other",detailed,9480,38.02,79090,31.23,64950,27-1029
+99,000000,cross-industry,1235,27-2011,Actors,detailed,55000,58.29,*,29.05,*,27-2011
+99,000000,cross-industry,1235,27-2012,Producers and Directors,detailed,143120,54.47,113300,43.44,90360,27-2012
+99,000000,cross-industry,1235,27-2021,Athletes and Sports Competitors,detailed,15070,*,206180,*,66710,27-2021
+99,000000,cross-industry,1235,27-2022,Coaches and Scouts,detailed,248950,*,60160,*,47320,27-2022
+99,000000,cross-industry,1235,27-2023,"Umpires, Referees, and Other Sports Officials",detailed,15780,*,53010,*,40710,27-2023
+99,000000,cross-industry,1235,27-2031,Dancers,detailed,8130,30.83,*,24.8,*,27-2031
+99,000000,cross-industry,1235,27-2032,Choreographers,detailed,2860,35.14,73100,26.59,55310,27-2032
+99,000000,cross-industry,1235,27-2041,Music Directors and Composers,detailed,12540,43.5,90470,35.44,73710,27-2041
+99,000000,cross-industry,1235,27-2042,Musicians and Singers,detailed,36180,60.46,*,47.8,*,27-2042
+99,000000,cross-industry,1235,27-2091,"Disc Jockeys, Except Radio",detailed,7920,32.57,*,21.61,*,27-2091
+99,000000,cross-industry,1235,27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",detailed,16550,30.7,*,18.82,*,27-2099
+99,000000,cross-industry,1235,27-3011,Broadcast Announcers and Radio Disc Jockeys,detailed,21240,37.85,78720,22.76,47340,27-3011
+99,000000,cross-industry,1235,27-3023,"News Analysts, Reporters, and Journalists",detailed,39250,49.26,102460,29.91,62200,27-3023
+99,000000,cross-industry,1235,27-3031,Public Relations Specialists,detailed,283380,40.44,84120,35.94,74750,27-3031
+99,000000,cross-industry,1235,27-3041,Editors,detailed,91690,43.3,90060,37.46,77920,27-3041
+99,000000,cross-industry,1235,27-3042,Technical Writers,detailed,45500,46.62,96970,43.46,90390,27-3042
+99,000000,cross-industry,1235,27-3043,Writers and Authors,detailed,47940,41.39,86090,36.98,76910,27-3043
+99,000000,cross-industry,1235,27-3091,Interpreters and Translators,detailed,52060,31.9,66360,28.93,60170,27-3091
+99,000000,cross-industry,1235,27-3092,Court Reporters and Simultaneous Captioners,detailed,12870,37.86,78760,34.82,72420,27-3092
+99,000000,cross-industry,1235,27-3099,"Media and Communication Workers, All Other",detailed,19590,40.32,83860,35.39,73620,27-3099
+99,000000,cross-industry,1235,27-4011,Audio and Video Technicians,detailed,70230,31.07,64630,27.93,58100,27-4011
+99,000000,cross-industry,1235,27-4012,Broadcast Technicians,detailed,21110,32.68,67960,28.64,59570,27-4012
+99,000000,cross-industry,1235,27-4014,Sound Engineering Technicians,detailed,13080,39.13,81390,35.16,73130,27-4014
+99,000000,cross-industry,1235,27-4015,Lighting Technicians,detailed,8900,37.68,78380,32.72,68060,27-4015
+99,000000,cross-industry,1235,27-4021,Photographers,detailed,51760,26.64,55410,21.47,44660,27-4021
+99,000000,cross-industry,1235,27-4031,"Camera Operators, Television, Video, and Film",detailed,21550,40.01,83210,36.05,74990,27-4031
+99,000000,cross-industry,1235,27-4032,Film and Video Editors,detailed,25610,41.41,86130,36.26,75420,27-4032
+99,000000,cross-industry,1235,27-4099,"Media and Communication Equipment Workers, All Other",detailed,12450,38.96,81040,34,70720,27-4099
+99,000000,cross-industry,1235,29-1011,Chiropractors,detailed,39630,43.52,90520,38.08,79200,29-1011
+99,000000,cross-industry,1235,29-1021,"Dentists, General",detailed,124390,91.99,191350,82.19,170950,29-1021
+99,000000,cross-industry,1235,29-1022,Oral and Maxillofacial Surgeons,detailed,4910,166.58,346490,169.34,352220,29-1022
+99,000000,cross-industry,1235,29-1023,Orthodontists,detailed,6210,124.71,259400,139.01,289140,29-1023
+99,000000,cross-industry,1235,29-1024,Prosthodontists,detailed,870,129.15,268630,149.61,311180,29-1024
+99,000000,cross-industry,1235,29-1029,"Dentists, All Other Specialists",detailed,5230,119.2,247930,108.17,224990,29-1029
+99,000000,cross-industry,1235,29-1031,Dietitians and Nutritionists,detailed,77570,37.08,77130,36.73,76400,29-1031
+99,000000,cross-industry,1235,29-1041,Optometrists,detailed,42790,68.05,141550,65.66,136570,29-1041
+99,000000,cross-industry,1235,29-1051,Pharmacists,detailed,321970,67.75,140920,67.75,140910,29-1051
+99,000000,cross-industry,1235,29-1071,Physician Assistants,detailed,162150,67.92,141280,65.33,135880,29-1071
+99,000000,cross-industry,1235,29-1081,Podiatrists,detailed,9680,84.37,175480,77.07,160300,29-1081
+99,000000,cross-industry,1235,29-1122,Occupational Therapists,detailed,162450,48.69,101280,48.24,100330,29-1122
+99,000000,cross-industry,1235,29-1123,Physical Therapists,detailed,267330,50.62,105280,49.4,102760,29-1123
+99,000000,cross-industry,1235,29-1124,Radiation Therapists,detailed,17070,55.28,114990,50.63,105310,29-1124
+99,000000,cross-industry,1235,29-1125,Recreational Therapists,detailed,14930,32.52,67630,29.79,61960,29-1125
+99,000000,cross-industry,1235,29-1126,Respiratory Therapists,detailed,139790,41.97,87300,39.56,82280,29-1126
+99,000000,cross-industry,1235,29-1127,Speech-Language Pathologists,detailed,183390,47.2,98170,47.05,97870,29-1127
+99,000000,cross-industry,1235,29-1128,Exercise Physiologists,detailed,8560,29.3,60940,28.59,59460,29-1128
+99,000000,cross-industry,1235,29-1129,"Therapists, All Other",detailed,22640,43.47,90420,37.47,77930,29-1129
+99,000000,cross-industry,1235,29-1131,Veterinarians,detailed,83900,68.6,142680,62.55,130100,29-1131
+99,000000,cross-industry,1235,29-1141,Registered Nurses,detailed,3379720,48.76,101420,46.9,97550,29-1141
+99,000000,cross-industry,1235,29-1151,Nurse Anesthetists,detailed,51840,119.38,248320,113.75,236590,29-1151
+99,000000,cross-industry,1235,29-1161,Nurse Midwives,detailed,7920,65.86,136980,64.44,134040,29-1161
+99,000000,cross-industry,1235,29-1171,Nurse Practitioners,detailed,323040,66.01,137300,63.61,132300,29-1171
+99,000000,cross-industry,1235,29-1181,Audiologists,detailed,13660,46.99,97740,46.05,95780,29-1181
+99,000000,cross-industry,1235,29-1211,Anesthesiologists,detailed,38760,173.35,360570,188.22,391490,29-1211
+99,000000,cross-industry,1235,29-1212,Cardiologists,detailed,17290,218.72,454940,238.47,496010,29-1212
+99,000000,cross-industry,1235,29-1213,Dermatologists,detailed,11370,155.55,323530,158.04,328730,29-1213
+99,000000,cross-industry,1235,29-1214,Emergency Medicine Physicians,detailed,32880,152.64,317480,161.32,335550,29-1214
+99,000000,cross-industry,1235,29-1215,Family Medicine Physicians,detailed,107510,122.99,255820,117.39,244180,29-1215
+99,000000,cross-industry,1235,29-1216,General Internal Medicine Physicians,detailed,67150,128.46,267200,123.35,256560,29-1216
+99,000000,cross-industry,1235,29-1217,Neurologists,detailed,10590,128.67,267630,119.5,248560,29-1217
+99,000000,cross-industry,1235,29-1218,Obstetricians and Gynecologists,detailed,21260,134.16,279040,140.82,292910,29-1218
+99,000000,cross-industry,1235,29-1221,"Pediatricians, General",detailed,39390,101.98,212110,100.98,210040,29-1221
+99,000000,cross-industry,1235,29-1222,"Physicians, Pathologists",detailed,11110,137.22,285420,150.19,312400,29-1222
+99,000000,cross-industry,1235,29-1223,Psychiatrists,detailed,27980,129.78,269940,135.51,281870,29-1223
+99,000000,cross-industry,1235,29-1224,Radiologists,detailed,26770,183.43,381530,202.34,420860,29-1224
+99,000000,cross-industry,1235,29-1229,"Physicians, All Other",detailed,342720,125.98,262040,127.85,265930,29-1229
+99,000000,cross-industry,1235,29-1241,"Ophthalmologists, Except Pediatric",detailed,8950,146.47,304650,144.27,300080,29-1241
+99,000000,cross-industry,1235,29-1242,"Orthopedic Surgeons, Except Pediatric",detailed,14100,179.6,373570,172.38,358550,29-1242
+99,000000,cross-industry,1235,29-1243,Pediatric Surgeons,detailed,1190,241.37,502050,268.76,559030,29-1243
+99,000000,cross-industry,1235,29-1249,"Surgeons, All Other",detailed,25140,179.78,373930,199.04,414010,29-1249
+99,000000,cross-industry,1235,29-1291,Acupuncturists,detailed,7830,41.84,87020,36.56,76040,29-1291
+99,000000,cross-industry,1235,29-1292,Dental Hygienists,detailed,222740,47.59,98990,47.16,98100,29-1292
+99,000000,cross-industry,1235,29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",detailed,28630,61.38,127660,55.39,115210,29-1299
+99,000000,cross-industry,1235,29-2010,Clinical Laboratory Technologists and Technicians,detailed,332940,32.38,67350,30.26,62930,29-2010
+99,000000,cross-industry,1235,29-2031,Cardiovascular Technologists and Technicians,detailed,62960,36.99,76940,35.73,74310,29-2031
+99,000000,cross-industry,1235,29-2032,Diagnostic Medical Sonographers,detailed,90160,46.75,97240,46.44,96590,29-2032
+99,000000,cross-industry,1235,29-2033,Nuclear Medicine Technologists,detailed,17080,50.56,105160,48.74,101370,29-2033
+99,000000,cross-industry,1235,29-2034,Radiologic Technologists and Technicians,detailed,230490,40.31,83840,38.52,80110,29-2034
+99,000000,cross-industry,1235,29-2035,Magnetic Resonance Imaging Technologists,detailed,43390,46.21,96120,45.91,95480,29-2035
+99,000000,cross-industry,1235,29-2036,Medical Dosimetrists,detailed,3410,71.4,148500,70.9,147470,29-2036
+99,000000,cross-industry,1235,29-2042,Emergency Medical Technicians,detailed,180510,22.52,46830,21.38,44470,29-2042
+99,000000,cross-industry,1235,29-2043,Paramedics,detailed,100610,30.46,63360,29.13,60600,29-2043
+99,000000,cross-industry,1235,29-2051,Dietetic Technicians,detailed,31560,19.54,40630,18.09,37640,29-2051
+99,000000,cross-industry,1235,29-2052,Pharmacy Technicians,detailed,471680,22.41,46620,22,45750,29-2052
+99,000000,cross-industry,1235,29-2053,Psychiatric Technicians,detailed,156960,22.41,46610,21.7,45130,29-2053
+99,000000,cross-industry,1235,29-2055,Surgical Technologists,detailed,117460,33.03,68710,31.08,64650,29-2055
+99,000000,cross-industry,1235,29-2056,Veterinary Technologists and Technicians,detailed,129140,23.61,49120,22.78,47380,29-2056
+99,000000,cross-industry,1235,29-2057,Ophthalmic Medical Technicians,detailed,71010,22.63,47060,21.91,45570,29-2057
+99,000000,cross-industry,1235,29-2061,Licensed Practical and Licensed Vocational Nurses,detailed,648410,32.24,67050,30.96,64400,29-2061
+99,000000,cross-industry,1235,29-2072,Medical Records Specialists,detailed,194720,27.3,56790,24.59,51140,29-2072
+99,000000,cross-industry,1235,29-2081,"Opticians, Dispensing",detailed,73530,24.89,51770,22.72,47260,29-2081
+99,000000,cross-industry,1235,29-2091,Orthotists and Prosthetists,detailed,9390,40.26,83740,38.99,81110,29-2091
+99,000000,cross-industry,1235,29-2092,Hearing Aid Specialists,detailed,11270,31.91,66370,31.33,65160,29-2092
+99,000000,cross-industry,1235,29-2099,"Health Technologists and Technicians, All Other",detailed,182610,28.23,58710,24.18,50290,29-2099
+99,000000,cross-industry,1235,29-9021,Health Information Technologists and Medical Registrars,detailed,38100,36.04,74970,32.7,68020,29-9021
+99,000000,cross-industry,1235,29-9091,Athletic Trainers,detailed,30500,*,66620,*,62520,29-9091
+99,000000,cross-industry,1235,29-9092,Genetic Counselors,detailed,3740,50.3,104620,48.09,100040,29-9092
+99,000000,cross-industry,1235,29-9093,Surgical Assistants,detailed,22270,34.96,72710,32.11,66800,29-9093
+99,000000,cross-industry,1235,29-9099,"Healthcare Practitioners and Technical Workers, All Other",detailed,35010,36.89,76720,31.63,65790,29-9099
+99,000000,cross-industry,1235,31-1120,Home Health and Personal Care Aides,detailed,4305810,17.36,36120,17.21,35800,31-1120
+99,000000,cross-industry,1235,31-1131,Nursing Assistants,detailed,1448910,20.53,42700,20.32,42260,31-1131
+99,000000,cross-industry,1235,31-1132,Orderlies,detailed,52440,19.55,40660,18.41,38290,31-1132
+99,000000,cross-industry,1235,31-1133,Psychiatric Aides,detailed,35520,21.97,45690,21.59,44910,31-1133
+99,000000,cross-industry,1235,31-2011,Occupational Therapy Assistants,detailed,51290,33.99,70710,34.76,72300,31-2011
+99,000000,cross-industry,1235,31-2012,Occupational Therapy Aides,detailed,4310,21.21,44110,18.83,39160,31-2012
+99,000000,cross-industry,1235,31-2021,Physical Therapist Assistants,detailed,112430,33.04,68730,32.88,68380,31-2021
+99,000000,cross-industry,1235,31-2022,Physical Therapist Aides,detailed,48150,17.52,36430,16.94,35240,31-2022
+99,000000,cross-industry,1235,31-9011,Massage Therapists,detailed,98790,30.69,63830,28.1,58450,31-9011
+99,000000,cross-industry,1235,31-9091,Dental Assistants,detailed,387790,24.13,50200,23.11,48070,31-9091
+99,000000,cross-industry,1235,31-9092,Medical Assistants,detailed,817870,22.17,46120,21.97,45690,31-9092
+99,000000,cross-industry,1235,31-9093,Medical Equipment Preparers,detailed,77420,24.28,50510,22.93,47700,31-9093
+99,000000,cross-industry,1235,31-9094,Medical Transcriptionists,detailed,41550,20.05,41710,19.43,40410,31-9094
+99,000000,cross-industry,1235,31-9095,Pharmacy Aides,detailed,39530,19.45,40450,18.12,37680,31-9095
+99,000000,cross-industry,1235,31-9096,Veterinary Assistants and Laboratory Animal Caretakers,detailed,126580,19.39,40340,18.34,38150,31-9096
+99,000000,cross-industry,1235,31-9097,Phlebotomists,detailed,143540,21.88,45520,21.75,45230,31-9097
+99,000000,cross-industry,1235,31-9099,"Healthcare Support Workers, All Other",detailed,109740,24.43,50810,23.28,48430,31-9099
+99,000000,cross-industry,1235,33-1011,First-Line Supervisors of Correctional Officers,detailed,53380,40.57,84380,37.49,77970,33-1011
+99,000000,cross-industry,1235,33-1012,First-Line Supervisors of Police and Detectives,detailed,154610,53.94,112190,50.98,106040,33-1012
+99,000000,cross-industry,1235,33-1021,First-Line Supervisors of Firefighting and Prevention Workers,detailed,99140,46.6,96930,44.96,93530,33-1021
+99,000000,cross-industry,1235,33-1091,First-Line Supervisors of Security Workers,detailed,81480,28.8,59900,26.9,55940,33-1091
+99,000000,cross-industry,1235,33-1099,"First-Line Supervisors of Protective Service Workers, All Other",detailed,20690,35.76,74390,36.73,76400,33-1099
+99,000000,cross-industry,1235,33-2011,Firefighters,detailed,345990,30.59,63630,28.5,59280,33-2011
+99,000000,cross-industry,1235,33-2021,Fire Inspectors and Investigators,detailed,13800,37.82,78670,36.5,75920,33-2021
+99,000000,cross-industry,1235,33-2022,Forest Fire Inspectors and Prevention Specialists,detailed,2780,32.04,66640,27.34,56870,33-2022
+99,000000,cross-industry,1235,33-3011,Bailiffs,detailed,17310,29.65,61660,27.21,56600,33-3011
+99,000000,cross-industry,1235,33-3012,Correctional Officers and Jailers,detailed,380500,30.59,63630,28.34,58940,33-3012
+99,000000,cross-industry,1235,33-3021,Detectives and Criminal Investigators,detailed,114430,47.8,99430,45.09,93790,33-3021
+99,000000,cross-industry,1235,33-3031,Fish and Game Wardens,detailed,5770,36.03,74950,35.6,74060,33-3031
+99,000000,cross-industry,1235,33-3041,Parking Enforcement Workers,detailed,9050,24.61,51190,22.47,46730,33-3041
+99,000000,cross-industry,1235,33-3051,Police and Sheriff's Patrol Officers,detailed,670520,38.08,79200,36.64,76210,33-3051
+99,000000,cross-industry,1235,33-3052,Transit and Railroad Police,detailed,4390,44.14,91810,43.38,90230,33-3052
+99,000000,cross-industry,1235,33-9011,Animal Control Workers,detailed,12070,23.29,48440,21.95,45660,33-9011
+99,000000,cross-industry,1235,33-9021,Private Detectives and Investigators,detailed,35580,28.92,60150,24.62,51220,33-9021
+99,000000,cross-industry,1235,33-9031,Gambling Surveillance Officers and Gambling Investigators,detailed,9520,21.94,45630,20.85,43370,33-9031
+99,000000,cross-industry,1235,33-9032,Security Guards,detailed,1283470,20.42,42470,18.28,38020,33-9032
+99,000000,cross-industry,1235,33-9091,Crossing Guards and Flaggers,detailed,94360,20.84,43350,18.32,38100,33-9091
+99,000000,cross-industry,1235,33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",detailed,157550,16.57,34470,16.14,33580,33-9092
+99,000000,cross-industry,1235,33-9093,Transportation Security Screeners,detailed,50290,30.92,64310,32.1,66770,33-9093
+99,000000,cross-industry,1235,33-9094,School Bus Monitors,detailed,78420,16.9,35150,16.88,35100,33-9094
+99,000000,cross-industry,1235,33-9099,"Protective Service Workers, All Other",detailed,81500,23.11,48070,20.45,42540,33-9099
+99,000000,cross-industry,1235,35-1011,Chefs and Head Cooks,detailed,200040,32.07,66700,30.03,62470,35-1011
+99,000000,cross-industry,1235,35-1012,First-Line Supervisors of Food Preparation and Serving Workers,detailed,1223240,22.2,46180,21.19,44080,35-1012
+99,000000,cross-industry,1235,35-2011,"Cooks, Fast Food",detailed,641070,15.57,32390,14.85,30890,35-2011
+99,000000,cross-industry,1235,35-2012,"Cooks, Institution and Cafeteria",detailed,441050,18.66,38810,18.01,37450,35-2012
+99,000000,cross-industry,1235,35-2013,"Cooks, Private Household",detailed,1100,25.81,53680,23.05,47940,35-2013
+99,000000,cross-industry,1235,35-2014,"Cooks, Restaurant",detailed,1409890,18.62,38730,17.98,37390,35-2014
+99,000000,cross-industry,1235,35-2015,"Cooks, Short Order",detailed,138650,17.37,36120,17.25,35880,35-2015
+99,000000,cross-industry,1235,35-2019,"Cooks, All Other",detailed,19350,18.82,39150,18.12,37690,35-2019
+99,000000,cross-industry,1235,35-2021,Food Preparation Workers,detailed,893600,16.96,35290,16.98,35320,35-2021
+99,000000,cross-industry,1235,35-3011,Bartenders,detailed,756390,19.61,40790,16.51,34340,35-3011
+99,000000,cross-industry,1235,35-3023,Fast Food and Counter Workers,detailed,3854050,15.46,32150,15,31200,35-3023
+99,000000,cross-industry,1235,35-3031,Waiters and Waitresses,detailed,2270910,19.26,40060,16.94,35230,35-3031
+99,000000,cross-industry,1235,35-3041,"Food Servers, Nonrestaurant",detailed,293900,17.37,36140,17,35360,35-3041
+99,000000,cross-industry,1235,35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,detailed,542750,16.46,34230,16.34,33980,35-9011
+99,000000,cross-industry,1235,35-9021,Dishwashers,detailed,477450,16.49,34310,16.73,34810,35-9021
+99,000000,cross-industry,1235,35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",detailed,432690,15.72,32690,15,31200,35-9031
+99,000000,cross-industry,1235,35-9099,"Food Preparation and Serving Related Workers, All Other",detailed,84630,17.7,36810,17.23,35840,35-9099
+99,000000,cross-industry,1235,37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,detailed,178760,25.64,53320,23.61,49100,37-1011
+99,000000,cross-industry,1235,37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",detailed,130760,29.31,60960,28.09,58430,37-1012
+99,000000,cross-industry,1235,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",detailed,2209760,18.64,38760,17.71,36840,37-2011
+99,000000,cross-industry,1235,37-2012,Maids and Housekeeping Cleaners,detailed,860670,17.83,37080,17.07,35510,37-2012
+99,000000,cross-industry,1235,37-2019,"Building Cleaning Workers, All Other",detailed,17210,22.32,46420,21.17,44040,37-2019
+99,000000,cross-industry,1235,37-2021,Pest Control Workers,detailed,102620,22.31,46400,21.75,45250,37-2021
+99,000000,cross-industry,1235,37-3011,Landscaping and Groundskeeping Workers,detailed,952640,20.33,42290,18.82,39150,37-3011
+99,000000,cross-industry,1235,37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",detailed,27050,22.63,47070,22.28,46340,37-3012
+99,000000,cross-industry,1235,37-3013,Tree Trimmers and Pruners,detailed,55160,26.91,55970,24.5,50960,37-3013
+99,000000,cross-industry,1235,37-3019,"Grounds Maintenance Workers, All Other",detailed,13630,23.48,48830,22.53,46860,37-3019
+99,000000,cross-industry,1235,39-1013,First-Line Supervisors of Gambling Services Workers,detailed,26010,31.17,64830,30.68,63820,39-1013
+99,000000,cross-industry,1235,39-1014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",detailed,103190,25.75,53550,23.34,48560,39-1014
+99,000000,cross-industry,1235,39-1022,First-Line Supervisors of Personal Service Workers,detailed,114110,25.17,52360,23.36,48590,39-1022
+99,000000,cross-industry,1235,39-2011,Animal Trainers,detailed,18770,22.61,47020,19.22,39990,39-2011
+99,000000,cross-industry,1235,39-2021,Animal Caretakers,detailed,266910,17.94,37300,17,35360,39-2021
+99,000000,cross-industry,1235,39-3011,Gambling Dealers,detailed,83910,20.46,42550,16.5,34320,39-3011
+99,000000,cross-industry,1235,39-3012,Gambling and Sports Book Writers and Runners,detailed,8950,17.53,36450,16.82,34980,39-3012
+99,000000,cross-industry,1235,39-3019,"Gambling Service Workers, All Other",detailed,14140,19.9,41380,17.46,36310,39-3019
+99,000000,cross-industry,1235,39-3021,Motion Picture Projectionists,detailed,1480,24.75,51480,18.4,38270,39-3021
+99,000000,cross-industry,1235,39-3031,"Ushers, Lobby Attendants, and Ticket Takers",detailed,121770,15.91,33080,15.82,32910,39-3031
+99,000000,cross-industry,1235,39-3091,Amusement and Recreation Attendants,detailed,397830,15.69,32640,15.46,32150,39-3091
+99,000000,cross-industry,1235,39-3092,Costume Attendants,detailed,6510,30.5,63440,24.23,50400,39-3092
+99,000000,cross-industry,1235,39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",detailed,15560,18.49,38460,17.45,36300,39-3093
+99,000000,cross-industry,1235,39-3099,"Entertainment Attendants and Related Workers, All Other",detailed,7060,16.82,34980,15.69,32640,39-3099
+99,000000,cross-industry,1235,39-4011,Embalmers,detailed,3890,28.07,58390,28.26,58780,39-4011
+99,000000,cross-industry,1235,39-4012,Crematory Operators,detailed,2970,21.96,45670,20.98,43650,39-4012
+99,000000,cross-industry,1235,39-4021,Funeral Attendants,detailed,31090,17.88,37190,17.16,35680,39-4021
+99,000000,cross-industry,1235,39-4031,"Morticians, Undertakers, and Funeral Arrangers",detailed,25100,27.96,58160,26.45,55010,39-4031
+99,000000,cross-industry,1235,39-5011,Barbers,detailed,15000,22.63,47070,18.37,38210,39-5011
+99,000000,cross-industry,1235,39-5012,"Hairdressers, Hairstylists, and Cosmetologists",detailed,305710,21.13,43960,17.21,35790,39-5012
+99,000000,cross-industry,1235,39-5091,"Makeup Artists, Theatrical and Performance",detailed,2340,49.16,102240,46.71,97150,39-5091
+99,000000,cross-industry,1235,39-5092,Manicurists and Pedicurists,detailed,152770,18.54,38570,17.19,35760,39-5092
+99,000000,cross-industry,1235,39-5093,Shampooers,detailed,8070,15.37,31980,15.67,32600,39-5093
+99,000000,cross-industry,1235,39-5094,Skincare Specialists,detailed,72890,24.93,51850,21.79,45330,39-5094
+99,000000,cross-industry,1235,39-6011,Baggage Porters and Bellhops,detailed,28510,18.54,38570,17.83,37080,39-6011
+99,000000,cross-industry,1235,39-6012,Concierges,detailed,49240,20.44,42510,18.73,38950,39-6012
+99,000000,cross-industry,1235,39-7010,Tour and Travel Guides,detailed,53500,21.02,43720,18.33,38120,39-7010
+99,000000,cross-industry,1235,39-9011,Childcare Workers,detailed,518910,16.84,35030,16.82,34980,39-9011
+99,000000,cross-industry,1235,39-9031,Exercise Trainers and Group Fitness Instructors,detailed,322930,25.2,52420,22.67,47160,39-9031
+99,000000,cross-industry,1235,39-9032,Recreation Workers,detailed,331490,18.52,38520,17.58,36560,39-9032
+99,000000,cross-industry,1235,39-9041,Residential Advisors,detailed,84760,21.15,43990,20.31,42240,39-9041
+99,000000,cross-industry,1235,39-9099,"Personal Care and Service Workers, All Other",detailed,60420,19.29,40120,20,41600,39-9099
+99,000000,cross-industry,1235,41-1011,First-Line Supervisors of Retail Sales Workers,detailed,1121800,25.66,53380,23.33,48520,41-1011
+99,000000,cross-industry,1235,41-1012,First-Line Supervisors of Non-Retail Sales Workers,detailed,214390,47.77,99370,42.08,87520,41-1012
+99,000000,cross-industry,1235,41-2011,Cashiers,detailed,3089410,15.95,33180,15.81,32880,41-2011
+99,000000,cross-industry,1235,41-2012,Gambling Change Persons and Booth Cashiers,detailed,21530,18.8,39100,17.41,36220,41-2012
+99,000000,cross-industry,1235,41-2021,Counter and Rental Clerks,detailed,400810,21.97,45700,19.86,41300,41-2021
+99,000000,cross-industry,1235,41-2022,Parts Salespersons,detailed,270070,21.07,43830,18.57,38630,41-2022
+99,000000,cross-industry,1235,41-2031,Retail Salespersons,detailed,3897860,17.94,37310,17.03,35410,41-2031
+99,000000,cross-industry,1235,41-3011,Advertising Sales Agents,detailed,91700,38.79,80670,31.16,64820,41-3011
+99,000000,cross-industry,1235,41-3021,Insurance Sales Agents,detailed,479100,39.18,81480,29.94,62280,41-3021
+99,000000,cross-industry,1235,41-3031,"Securities, Commodities, and Financial Services Sales Agents",detailed,489570,52.48,109150,37.82,78660,41-3031
+99,000000,cross-industry,1235,41-3041,Travel Agents,detailed,55110,26.28,54660,24.11,50160,41-3041
+99,000000,cross-industry,1235,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",detailed,1256010,39.63,82430,33.65,69990,41-3091
+99,000000,cross-industry,1235,41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",detailed,284800,57.56,119730,50.44,104920,41-4011
+99,000000,cross-industry,1235,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",detailed,1238190,39.68,82530,34.65,72080,41-4012
+99,000000,cross-industry,1235,41-9011,Demonstrators and Product Promoters,detailed,64520,21.91,45580,18.91,39320,41-9011
+99,000000,cross-industry,1235,41-9012,Models,detailed,3780,35,72800,23.3,48470,41-9012
+99,000000,cross-industry,1235,41-9021,Real Estate Brokers,detailed,46100,40.36,83950,35.2,73220,41-9021
+99,000000,cross-industry,1235,41-9022,Real Estate Sales Agents,detailed,193370,33.42,69510,25.4,52830,41-9022
+99,000000,cross-industry,1235,41-9031,Sales Engineers,detailed,51790,62.57,130140,60.05,124900,41-9031
+99,000000,cross-industry,1235,41-9041,Telemarketers,detailed,58430,17.97,37370,17.04,35450,41-9041
+99,000000,cross-industry,1235,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",detailed,2760,21.08,43850,19.89,41380,41-9091
+99,000000,cross-industry,1235,41-9099,"Sales and Related Workers, All Other",detailed,93180,28.13,58510,23.21,48280,41-9099
+99,000000,cross-industry,1235,43-1011,First-Line Supervisors of Office and Administrative Support Workers,detailed,1436680,35.33,73490,33.41,69500,43-1011
+99,000000,cross-industry,1235,43-2011,"Switchboard Operators, Including Answering Service",detailed,34280,20.34,42300,18.57,38630,43-2011
+99,000000,cross-industry,1235,43-2021,Telephone Operators,detailed,3430,21.62,44970,20.07,41740,43-2021
+99,000000,cross-industry,1235,43-2099,"Communications Equipment Operators, All Other",detailed,1200,29.87,62130,26.29,54680,43-2099
+99,000000,cross-industry,1235,43-3011,Bill and Account Collectors,detailed,158830,23.59,49060,22.61,47030,43-3011
+99,000000,cross-industry,1235,43-3021,Billing and Posting Clerks,detailed,404060,24.55,51070,23.32,48500,43-3021
+99,000000,cross-industry,1235,43-3031,"Bookkeeping, Accounting, and Auditing Clerks",detailed,1373680,25.75,53560,24.36,50670,43-3031
+99,000000,cross-industry,1235,43-3041,Gambling Cage Workers,detailed,14430,19,39510,18.07,37580,43-3041
+99,000000,cross-industry,1235,43-3051,Payroll and Timekeeping Clerks,detailed,153140,28.67,59630,28.01,58260,43-3051
+99,000000,cross-industry,1235,43-3061,Procurement Clerks,detailed,55810,25.18,52370,24.32,50580,43-3061
+99,000000,cross-industry,1235,43-3071,Tellers,detailed,329480,20.36,42350,20.69,43030,43-3071
+99,000000,cross-industry,1235,43-3099,"Financial Clerks, All Other",detailed,36260,27.14,56450,25.88,53830,43-3099
+99,000000,cross-industry,1235,43-4011,Brokerage Clerks,detailed,35940,35.03,72850,31.61,65750,43-4011
+99,000000,cross-industry,1235,43-4021,Correspondence Clerks,detailed,4290,23.12,48090,22.5,46800,43-4021
+99,000000,cross-industry,1235,43-4031,"Court, Municipal, and License Clerks",detailed,179750,25.15,52320,23.41,48700,43-4031
+99,000000,cross-industry,1235,43-4041,"Credit Authorizers, Checkers, and Clerks",detailed,12030,24.72,51420,24.08,50080,43-4041
+99,000000,cross-industry,1235,43-4051,Customer Service Representatives,detailed,2595750,22.4,46590,21.53,44770,43-4051
+99,000000,cross-industry,1235,43-4061,"Eligibility Interviewers, Government Programs",detailed,154800,26.97,56090,26.06,54210,43-4061
+99,000000,cross-industry,1235,43-4071,File Clerks,detailed,73440,21.92,45590,20.96,43600,43-4071
+99,000000,cross-industry,1235,43-4081,"Hotel, Motel, and Resort Desk Clerks",detailed,261420,17.09,35550,16.86,35070,43-4081
+99,000000,cross-industry,1235,43-4111,"Interviewers, Except Eligibility and Loan",detailed,148060,22.71,47240,22.08,45920,43-4111
+99,000000,cross-industry,1235,43-4121,"Library Assistants, Clerical",detailed,85520,18.93,39370,17.74,36910,43-4121
+99,000000,cross-industry,1235,43-4131,Loan Interviewers and Clerks,detailed,164790,25.25,52520,24.05,50020,43-4131
+99,000000,cross-industry,1235,43-4141,New Accounts Clerks,detailed,36860,23.73,49370,22.92,47670,43-4141
+99,000000,cross-industry,1235,43-4151,Order Clerks,detailed,75200,23.19,48220,22.2,46170,43-4151
+99,000000,cross-industry,1235,43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",detailed,90220,25.12,52250,24.33,50610,43-4161
+99,000000,cross-industry,1235,43-4171,Receptionists and Information Clerks,detailed,910180,18.97,39460,18.27,38010,43-4171
+99,000000,cross-industry,1235,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,detailed,118710,23.86,49630,21.34,44390,43-4181
+99,000000,cross-industry,1235,43-4199,"Information and Record Clerks, All Other",detailed,134920,24.76,51490,23.8,49500,43-4199
+99,000000,cross-industry,1235,43-5011,Cargo and Freight Agents,detailed,97670,27.52,57230,25.13,52260,43-5011
+99,000000,cross-industry,1235,43-5021,Couriers and Messengers,detailed,68640,19.7,40970,18.85,39200,43-5021
+99,000000,cross-industry,1235,43-5031,Public Safety Telecommunicators,detailed,102500,27.28,56740,25.5,53040,43-5031
+99,000000,cross-industry,1235,43-5032,"Dispatchers, Except Police, Fire, and Ambulance",detailed,202810,26.32,54740,24.2,50340,43-5032
+99,000000,cross-industry,1235,43-5041,"Meter Readers, Utilities",detailed,19430,26.63,55380,23.15,48150,43-5041
+99,000000,cross-industry,1235,43-5051,Postal Service Clerks,detailed,73720,29.74,61860,29.87,62130,43-5051
+99,000000,cross-industry,1235,43-5052,Postal Service Mail Carriers,detailed,328820,30.07,62540,29.11,60550,43-5052
+99,000000,cross-industry,1235,43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",detailed,105200,28.57,59430,28.11,58470,43-5053
+99,000000,cross-industry,1235,43-5061,"Production, Planning, and Expediting Clerks",detailed,390160,29.88,62150,28.68,59650,43-5061
+99,000000,cross-industry,1235,43-5071,"Shipping, Receiving, and Inventory Clerks",detailed,816870,22.5,46810,21.76,45260,43-5071
+99,000000,cross-industry,1235,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",detailed,53300,22.9,47630,22.3,46380,43-5111
+99,000000,cross-industry,1235,43-6011,Executive Secretaries and Executive Administrative Assistants,detailed,459910,38.05,79140,36.82,76590,43-6011
+99,000000,cross-industry,1235,43-6012,Legal Secretaries and Administrative Assistants,detailed,156280,29.14,60620,26.72,55570,43-6012
+99,000000,cross-industry,1235,43-6013,Medical Secretaries and Administrative Assistants,detailed,961610,22.5,46800,22.08,45930,43-6013
+99,000000,cross-industry,1235,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",detailed,1706790,23.73,49350,22.86,47540,43-6014
+99,000000,cross-industry,1235,43-9021,Data Entry Keyers,detailed,127080,20.82,43310,19.88,41340,43-9021
+99,000000,cross-industry,1235,43-9022,Word Processors and Typists,detailed,35010,24.58,51120,23.69,49280,43-9022
+99,000000,cross-industry,1235,43-9031,Desktop Publishers,detailed,3350,29.79,61970,26.58,55290,43-9031
+99,000000,cross-industry,1235,43-9041,Insurance Claims and Policy Processing Clerks,detailed,214260,25.44,52920,23.67,49230,43-9041
+99,000000,cross-industry,1235,43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",detailed,55230,20.03,41650,18.89,39280,43-9051
+99,000000,cross-industry,1235,43-9061,"Office Clerks, General",detailed,2464940,22.32,46420,21.64,45010,43-9061
+99,000000,cross-industry,1235,43-9071,"Office Machine Operators, Except Computer",detailed,25130,20.78,43220,19.69,40960,43-9071
+99,000000,cross-industry,1235,43-9081,Proofreaders and Copy Markers,detailed,4580,26.35,54800,24.58,51120,43-9081
+99,000000,cross-industry,1235,43-9111,Statistical Assistants,detailed,4710,26.75,55650,24.2,50330,43-9111
+99,000000,cross-industry,1235,43-9199,"Office and Administrative Support Workers, All Other",detailed,192260,23.4,48670,21.96,45670,43-9199
+99,000000,cross-industry,1235,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",detailed,27960,30.16,62730,28.52,59320,45-1011
+99,000000,cross-industry,1235,45-2011,Agricultural Inspectors,detailed,14410,26.4,54910,24.01,49940,45-2011
+99,000000,cross-industry,1235,45-2021,Animal Breeders,detailed,1330,27.41,57010,24.58,51130,45-2021
+99,000000,cross-industry,1235,45-2041,"Graders and Sorters, Agricultural Products",detailed,25180,17.51,36430,17.18,35730,45-2041
+99,000000,cross-industry,1235,45-2091,Agricultural Equipment Operators,detailed,28500,21.02,43710,20.06,41730,45-2091
+99,000000,cross-industry,1235,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",detailed,265500,18.09,37630,17.15,35660,45-2092
+99,000000,cross-industry,1235,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",detailed,32810,18.88,39260,17.63,36670,45-2093
+99,000000,cross-industry,1235,45-2099,"Agricultural Workers, All Other",detailed,3620,21.88,45510,19.16,39850,45-2099
+99,000000,cross-industry,1235,45-4011,Forest and Conservation Workers,detailed,6050,21,43680,21,43680,45-4011
+99,000000,cross-industry,1235,45-4021,Fallers,detailed,3130,27.46,57110,25.05,52100,45-4021
+99,000000,cross-industry,1235,45-4022,Logging Equipment Operators,detailed,21060,25.57,53190,23.91,49740,45-4022
+99,000000,cross-industry,1235,45-4023,Log Graders and Scalers,detailed,3070,22.97,47770,22.27,46330,45-4023
+99,000000,cross-industry,1235,45-4029,"Logging Workers, All Other",detailed,1700,25.44,52910,24.44,50840,45-4029
+99,000000,cross-industry,1235,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,detailed,812210,41.56,86450,38.42,79920,47-1011
+99,000000,cross-industry,1235,47-2011,Boilermakers,detailed,10190,38.5,80090,36.74,76410,47-2011
+99,000000,cross-industry,1235,47-2021,Brickmasons and Blockmasons,detailed,52550,32.83,68280,29.87,62120,47-2021
+99,000000,cross-industry,1235,47-2022,Stonemasons,detailed,7820,29.19,60710,27.59,57390,47-2022
+99,000000,cross-industry,1235,47-2031,Carpenters,detailed,670090,31.55,65630,29.12,60580,47-2031
+99,000000,cross-industry,1235,47-2041,Carpet Installers,detailed,13780,27.4,56990,24.2,50340,47-2041
+99,000000,cross-industry,1235,47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",detailed,23640,29.69,61760,27.15,56460,47-2042
+99,000000,cross-industry,1235,47-2043,Floor Sanders and Finishers,detailed,3720,25.22,52460,24.25,50440,47-2043
+99,000000,cross-industry,1235,47-2044,Tile and Stone Setters,detailed,35850,28.49,59250,26.77,55690,47-2044
+99,000000,cross-industry,1235,47-2051,Cement Masons and Concrete Finishers,detailed,206170,28.87,60050,27.41,57020,47-2051
+99,000000,cross-industry,1235,47-2053,Terrazzo Workers and Finishers,detailed,1180,40.83,84920,36.62,76170,47-2053
+99,000000,cross-industry,1235,47-2061,Construction Laborers,detailed,1096780,25.02,52030,22.66,47120,47-2061
+99,000000,cross-industry,1235,47-2071,"Paving, Surfacing, and Tamping Equipment Operators",detailed,41820,28.37,59000,25.64,53340,47-2071
+99,000000,cross-industry,1235,47-2072,Pile Driver Operators,detailed,2310,38.81,80710,35.24,73300,47-2072
+99,000000,cross-industry,1235,47-2073,Operating Engineers and Other Construction Equipment Operators,detailed,478090,31.87,66290,28.78,59850,47-2073
+99,000000,cross-industry,1235,47-2081,Drywall and Ceiling Tile Installers,detailed,83080,30.58,63600,28.33,58930,47-2081
+99,000000,cross-industry,1235,47-2082,Tapers,detailed,12840,34.96,72710,32.82,68270,47-2082
+99,000000,cross-industry,1235,47-2111,Electricians,detailed,757220,34.37,71490,30.38,63190,47-2111
+99,000000,cross-industry,1235,47-2121,Glaziers,detailed,58480,28.71,59720,27.44,57080,47-2121
+99,000000,cross-industry,1235,47-2131,"Insulation Workers, Floor, Ceiling, and Wall",detailed,44440,26.32,54740,23.62,49120,47-2131
+99,000000,cross-industry,1235,47-2132,"Insulation Workers, Mechanical",detailed,25660,31.5,65530,28.05,58340,47-2132
+99,000000,cross-industry,1235,47-2141,"Painters, Construction and Maintenance",detailed,225190,26.64,55420,23.75,49400,47-2141
+99,000000,cross-industry,1235,47-2142,Paperhangers,detailed,1570,25.83,53730,25.07,52140,47-2142
+99,000000,cross-industry,1235,47-2151,Pipelayers,detailed,33050,26.3,54700,23.56,49000,47-2151
+99,000000,cross-industry,1235,47-2152,"Plumbers, Pipefitters, and Steamfitters",detailed,465840,34.7,72170,30.67,63800,47-2152
+99,000000,cross-industry,1235,47-2161,Plasterers and Stucco Masons,detailed,19310,29.83,62050,27.72,57660,47-2161
+99,000000,cross-industry,1235,47-2171,Reinforcing Iron and Rebar Workers,detailed,13800,31.76,66060,28.35,58970,47-2171
+99,000000,cross-industry,1235,47-2181,Roofers,detailed,135490,27.95,58140,26.65,55440,47-2181
+99,000000,cross-industry,1235,47-2211,Sheet Metal Workers,detailed,119770,32.62,67850,29.71,61800,47-2211
+99,000000,cross-industry,1235,47-2221,Structural Iron and Steel Workers,detailed,68380,33.79,70280,30.18,62780,47-2221
+99,000000,cross-industry,1235,47-2231,Solar Photovoltaic Installers,detailed,31350,27.84,57900,25.55,53140,47-2231
+99,000000,cross-industry,1235,47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",detailed,14170,24.48,50920,22.86,47550,47-3011
+99,000000,cross-industry,1235,47-3012,Helpers--Carpenters,detailed,21680,21.18,44050,21.05,43780,47-3012
+99,000000,cross-industry,1235,47-3013,Helpers--Electricians,detailed,63630,21.19,44080,20.51,42670,47-3013
+99,000000,cross-industry,1235,47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",detailed,7490,20.4,42440,19.46,40470,47-3014
+99,000000,cross-industry,1235,47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",detailed,44330,21.03,43730,20.36,42360,47-3015
+99,000000,cross-industry,1235,47-3016,Helpers--Roofers,detailed,6030,21.71,45150,21.23,44160,47-3016
+99,000000,cross-industry,1235,47-3019,"Helpers, Construction Trades, All Other",detailed,24770,21.7,45140,20.51,42670,47-3019
+99,000000,cross-industry,1235,47-4011,Construction and Building Inspectors,detailed,146720,37.37,77730,35.91,74690,47-4011
+99,000000,cross-industry,1235,47-4021,Elevator and Escalator Installers and Repairers,detailed,23790,52.8,109820,52.84,109910,47-4021
+99,000000,cross-industry,1235,47-4031,Fence Erectors,detailed,24480,24.29,50530,23.07,47980,47-4031
+99,000000,cross-industry,1235,47-4041,Hazardous Materials Removal Workers,detailed,51710,27.13,56430,23.78,49450,47-4041
+99,000000,cross-industry,1235,47-4051,Highway Maintenance Workers,detailed,154960,25.52,53080,24.16,50260,47-4051
+99,000000,cross-industry,1235,47-4061,Rail-Track Laying and Maintenance Equipment Operators,detailed,19580,33.05,68740,33.69,70070,47-4061
+99,000000,cross-industry,1235,47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,detailed,30650,25.72,53500,23.98,49880,47-4071
+99,000000,cross-industry,1235,47-4090,Miscellaneous Construction and Related Workers,detailed,28380,26.51,55130,24,49910,47-4090
+99,000000,cross-industry,1235,47-5011,"Derrick Operators, Oil and Gas",detailed,10590,28.95,60210,28.18,58620,47-5011
+99,000000,cross-industry,1235,47-5012,"Rotary Drill Operators, Oil and Gas",detailed,12600,34.68,72130,32.64,67890,47-5012
+99,000000,cross-industry,1235,47-5013,"Service Unit Operators, Oil and Gas",detailed,43140,30.04,62470,27.96,58160,47-5013
+99,000000,cross-industry,1235,47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",detailed,34480,28.81,59930,27.61,57430,47-5022
+99,000000,cross-industry,1235,47-5023,"Earth Drillers, Except Oil and Gas",detailed,19450,30.21,62830,28.94,60190,47-5023
+99,000000,cross-industry,1235,47-5032,"Explosives Workers, Ordnance Handling Experts, and Blasters",detailed,5100,32.04,66640,29.51,61390,47-5032
+99,000000,cross-industry,1235,47-5041,Continuous Mining Machine Operators,detailed,14000,31.27,65050,29.72,61810,47-5041
+99,000000,cross-industry,1235,47-5043,"Roof Bolters, Mining",detailed,2160,37.55,78100,37.76,78540,47-5043
+99,000000,cross-industry,1235,47-5044,"Loading and Moving Machine Operators, Underground Mining",detailed,5930,34.25,71240,35.82,74500,47-5044
+99,000000,cross-industry,1235,47-5049,"Underground Mining Machine Operators, All Other",detailed,3180,33.59,69860,33.72,70130,47-5049
+99,000000,cross-industry,1235,47-5051,"Rock Splitters, Quarry",detailed,3320,24.76,51500,23.44,48740,47-5051
+99,000000,cross-industry,1235,47-5071,"Roustabouts, Oil and Gas",detailed,44970,23.65,49200,22.58,46960,47-5071
+99,000000,cross-industry,1235,47-5081,Helpers--Extraction Workers,detailed,6700,24.34,50620,22.95,47730,47-5081
+99,000000,cross-industry,1235,47-5099,"Extraction Workers, All Other",detailed,5540,27.83,57890,27.41,57010,47-5099
+99,000000,cross-industry,1235,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",detailed,617500,40.97,85220,38.39,79860,49-1011
+99,000000,cross-industry,1235,49-2011,"Computer, Automated Teller, and Office Machine Repairers",detailed,65600,24.46,50880,22.99,47810,49-2011
+99,000000,cross-industry,1235,49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",detailed,11140,33.59,69870,30.54,63520,49-2021
+99,000000,cross-industry,1235,49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",detailed,140920,32.93,68500,30.72,63890,49-2022
+99,000000,cross-industry,1235,49-2091,Avionics Technicians,detailed,18830,40.09,83380,39.56,82280,49-2091
+99,000000,cross-industry,1235,49-2092,"Electric Motor, Power Tool, and Related Repairers",detailed,14450,28.18,58610,27.02,56210,49-2092
+99,000000,cross-industry,1235,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",detailed,6940,40.05,83300,40.81,84890,49-2093
+99,000000,cross-industry,1235,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",detailed,65010,36.33,75570,35.62,74090,49-2094
+99,000000,cross-industry,1235,49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",detailed,20720,48.44,100760,49.53,103020,49-2095
+99,000000,cross-industry,1235,49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",detailed,8550,24.79,51560,23.28,48420,49-2096
+99,000000,cross-industry,1235,49-2097,Audiovisual Equipment Installers and Repairers,detailed,19780,27.85,57930,25.29,52600,49-2097
+99,000000,cross-industry,1235,49-2098,Security and Fire Alarm Systems Installers,detailed,86340,29.31,60960,28.88,60070,49-2098
+99,000000,cross-industry,1235,49-3011,Aircraft Mechanics and Service Technicians,detailed,138090,40.74,84740,38.4,79870,49-3011
+99,000000,cross-industry,1235,49-3021,Automotive Body and Related Repairers,detailed,149310,28.7,59690,26.39,54890,49-3021
+99,000000,cross-industry,1235,49-3022,Automotive Glass Installers and Repairers,detailed,20310,24.25,50430,22.9,47630,49-3022
+99,000000,cross-industry,1235,49-3023,Automotive Service Technicians and Mechanics,detailed,704640,27.13,56420,24.34,50620,49-3023
+99,000000,cross-industry,1235,49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,detailed,289960,30.92,64320,29.7,61770,49-3031
+99,000000,cross-industry,1235,49-3041,Farm Equipment Mechanics and Service Technicians,detailed,37870,27.54,57290,27.19,56550,49-3041
+99,000000,cross-industry,1235,49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",detailed,176600,33.29,69240,31.5,65510,49-3042
+99,000000,cross-industry,1235,49-3043,Rail Car Repairers,detailed,21350,33.98,70680,32.46,67530,49-3043
+99,000000,cross-industry,1235,49-3051,Motorboat Mechanics and Service Technicians,detailed,23220,27.92,58070,27.67,57550,49-3051
+99,000000,cross-industry,1235,49-3052,Motorcycle Mechanics,detailed,13510,25.18,52370,23.35,48580,49-3052
+99,000000,cross-industry,1235,49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,detailed,36060,24.04,49990,23.02,47880,49-3053
+99,000000,cross-industry,1235,49-3091,Bicycle Repairers,detailed,12170,20.55,42730,20.57,42780,49-3091
+99,000000,cross-industry,1235,49-3092,Recreational Vehicle Service Technicians,detailed,17430,27.14,56440,25,52000,49-3092
+99,000000,cross-industry,1235,49-3093,Tire Repairers and Changers,detailed,108410,19.31,40170,18.13,37710,49-3093
+99,000000,cross-industry,1235,49-9011,Mechanical Door Repairers,detailed,27120,27.67,57540,26.79,55720,49-9011
+99,000000,cross-industry,1235,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",detailed,48240,36.64,76210,35.74,74340,49-9012
+99,000000,cross-industry,1235,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",detailed,409670,31.14,64780,29.33,61010,49-9021
+99,000000,cross-industry,1235,49-9031,Home Appliance Repairers,detailed,32150,26.94,56040,24.51,50990,49-9031
+99,000000,cross-industry,1235,49-9041,Industrial Machinery Mechanics,detailed,439640,32.91,68460,31.02,64520,49-9041
+99,000000,cross-industry,1235,49-9043,"Maintenance Workers, Machinery",detailed,60020,31.06,64610,29.25,60850,49-9043
+99,000000,cross-industry,1235,49-9044,Millwrights,detailed,40330,33.55,69780,31.59,65700,49-9044
+99,000000,cross-industry,1235,49-9045,"Refractory Materials Repairers, Except Brickmasons",detailed,1080,30.66,63770,29.47,61290,49-9045
+99,000000,cross-industry,1235,49-9051,Electrical Power-Line Installers and Repairers,detailed,131070,44.22,91970,45.83,95320,49-9051
+99,000000,cross-industry,1235,49-9052,Telecommunications Line Installers and Repairers,detailed,97720,35.55,73940,35.73,74330,49-9052
+99,000000,cross-industry,1235,49-9061,Camera and Photographic Equipment Repairers,detailed,1650,26.94,56040,25.35,52720,49-9061
+99,000000,cross-industry,1235,49-9062,Medical Equipment Repairers,detailed,65990,31.7,65930,29.64,61660,49-9062
+99,000000,cross-industry,1235,49-9063,Musical Instrument Repairers and Tuners,detailed,5380,24.02,49960,22.32,46420,49-9063
+99,000000,cross-industry,1235,49-9064,Watch and Clock Repairers,detailed,1310,34.06,70840,32.32,67230,49-9064
+99,000000,cross-industry,1235,49-9069,"Precision Instrument and Equipment Repairers, All Other",detailed,9400,34.22,71180,33.17,68990,49-9069
+99,000000,cross-industry,1235,49-9071,"Maintenance and Repair Workers, General",detailed,1529700,25.86,53780,23.84,49590,49-9071
+99,000000,cross-industry,1235,49-9081,Wind Turbine Service Technicians,detailed,9980,33.16,68980,30.83,64120,49-9081
+99,000000,cross-industry,1235,49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",detailed,26410,23.93,49770,22.81,47450,49-9091
+99,000000,cross-industry,1235,49-9092,Commercial Divers,detailed,3450,42.46,88320,35.09,72990,49-9092
+99,000000,cross-industry,1235,49-9094,Locksmiths and Safe Repairers,detailed,15040,26.67,55470,24.68,51320,49-9094
+99,000000,cross-industry,1235,49-9095,Manufactured Building and Mobile Home Installers,detailed,3020,21.83,45410,22.11,45990,49-9095
+99,000000,cross-industry,1235,49-9096,Riggers,detailed,22530,32.12,66810,30.12,62640,49-9096
+99,000000,cross-industry,1235,49-9097,Signal and Track Switch Repairers,detailed,8720,43.47,90410,44.45,92460,49-9097
+99,000000,cross-industry,1235,49-9098,"Helpers--Installation, Maintenance, and Repair Workers",detailed,95580,19.95,41490,19.05,39630,49-9098
+99,000000,cross-industry,1235,49-9099,"Installation, Maintenance, and Repair Workers, All Other",detailed,176300,25.89,53850,23.67,49230,49-9099
+99,000000,cross-industry,1235,51-1011,First-Line Supervisors of Production and Operating Workers,detailed,673430,36.83,76600,35.79,74450,51-1011
+99,000000,cross-industry,1235,51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",detailed,34020,34.34,71420,31.43,65380,51-2011
+99,000000,cross-industry,1235,51-2021,"Coil Winders, Tapers, and Finishers",detailed,12840,24.26,50470,23.18,48220,51-2021
+99,000000,cross-industry,1235,51-2028,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",detailed,246970,22.92,47660,22.04,45850,51-2028
+99,000000,cross-industry,1235,51-2031,Engine and Other Machine Assemblers,detailed,34000,27.78,57790,25.82,53710,51-2031
+99,000000,cross-industry,1235,51-2041,Structural Metal Fabricators and Fitters,detailed,52360,25.98,54030,24.68,51330,51-2041
+99,000000,cross-industry,1235,51-2051,Fiberglass Laminators and Fabricators,detailed,16170,23.82,49550,22.54,46880,51-2051
+99,000000,cross-industry,1235,51-2061,Timing Device Assemblers and Adjusters,detailed,250,27.27,56720,30.11,62620,51-2061
+99,000000,cross-industry,1235,51-2090,Miscellaneous Assemblers and Fabricators,detailed,1405030,22.43,46660,21.47,44650,51-2090
+99,000000,cross-industry,1235,51-3011,Bakers,detailed,236200,18.5,38480,17.86,37160,51-3011
+99,000000,cross-industry,1235,51-3021,Butchers and Meat Cutters,detailed,136430,20.37,42380,19.3,40140,51-3021
+99,000000,cross-industry,1235,51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",detailed,145700,18.89,39280,18.41,38300,51-3022
+99,000000,cross-industry,1235,51-3023,Slaughterers and Meat Packers,detailed,69950,20.08,41770,19.29,40130,51-3023
+99,000000,cross-industry,1235,51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",detailed,20370,22.08,45930,21.54,44810,51-3091
+99,000000,cross-industry,1235,51-3092,Food Batchmakers,detailed,174520,21.04,43750,20.33,42290,51-3092
+99,000000,cross-industry,1235,51-3093,Food Cooking Machine Operators and Tenders,detailed,31250,20.47,42570,20,41590,51-3093
+99,000000,cross-industry,1235,51-3099,"Food Processing Workers, All Other",detailed,65000,19.38,40300,19.08,39680,51-3099
+99,000000,cross-industry,1235,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",detailed,60840,23.79,49480,22.94,47720,51-4021
+99,000000,cross-industry,1235,51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",detailed,8930,24.85,51680,23.57,49030,51-4022
+99,000000,cross-industry,1235,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",detailed,25250,25.59,53220,24.1,50140,51-4023
+99,000000,cross-industry,1235,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",detailed,171200,23.28,48430,22.27,46330,51-4031
+99,000000,cross-industry,1235,51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",detailed,4680,24.91,51810,23.6,49080,51-4032
+99,000000,cross-industry,1235,51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",detailed,67000,23.16,48170,22.38,46550,51-4033
+99,000000,cross-industry,1235,51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",detailed,16710,25.24,52490,24.34,50620,51-4034
+99,000000,cross-industry,1235,51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",detailed,12460,27.28,56740,25.39,52800,51-4035
+99,000000,cross-industry,1235,51-4041,Machinists,detailed,287050,28.52,59320,28.24,58750,51-4041
+99,000000,cross-industry,1235,51-4051,Metal-Refining Furnace Operators and Tenders,detailed,16780,26.68,55490,26.17,54430,51-4051
+99,000000,cross-industry,1235,51-4052,"Pourers and Casters, Metal",detailed,4560,26.1,54290,24.91,51810,51-4052
+99,000000,cross-industry,1235,51-4061,"Model Makers, Metal and Plastic",detailed,2610,32.97,68570,30.45,63340,51-4061
+99,000000,cross-industry,1235,51-4062,"Patternmakers, Metal and Plastic",detailed,1470,29.14,60610,27.89,58000,51-4062
+99,000000,cross-industry,1235,51-4071,Foundry Mold and Coremakers,detailed,12790,23.97,49860,23.13,48110,51-4071
+99,000000,cross-industry,1235,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",detailed,150470,22.1,45960,21.32,44350,51-4072
+99,000000,cross-industry,1235,51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",detailed,124590,24.05,50030,22.68,47180,51-4081
+99,000000,cross-industry,1235,51-4111,Tool and Die Makers,detailed,56930,32.14,66860,30.79,64050,51-4111
+99,000000,cross-industry,1235,51-4121,"Welders, Cutters, Solderers, and Brazers",detailed,416210,27.29,56760,25.84,53750,51-4121
+99,000000,cross-industry,1235,51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",detailed,31600,24.15,50220,23.04,47920,51-4122
+99,000000,cross-industry,1235,51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",detailed,14000,24.26,50450,23.44,48750,51-4191
+99,000000,cross-industry,1235,51-4192,"Layout Workers, Metal and Plastic",detailed,5970,31.98,66520,30.71,63870,51-4192
+99,000000,cross-industry,1235,51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",detailed,32410,21.69,45100,21.14,43960,51-4193
+99,000000,cross-industry,1235,51-4194,"Tool Grinders, Filers, and Sharpeners",detailed,5600,25.59,53240,24.07,50060,51-4194
+99,000000,cross-industry,1235,51-4199,"Metal Workers and Plastic Workers, All Other",detailed,15900,23.36,48580,22.09,45950,51-4199
+99,000000,cross-industry,1235,51-5111,Prepress Technicians and Workers,detailed,23840,24.43,50800,23.41,48690,51-5111
+99,000000,cross-industry,1235,51-5112,Printing Press Operators,detailed,144260,22.77,47360,22.01,45780,51-5112
+99,000000,cross-industry,1235,51-5113,Print Binding and Finishing Workers,detailed,33180,21.38,44460,20.33,42290,51-5113
+99,000000,cross-industry,1235,51-6011,Laundry and Dry-Cleaning Workers,detailed,198040,16.79,34920,16.78,34890,51-6011
+99,000000,cross-industry,1235,51-6021,"Pressers, Textile, Garment, and Related Materials",detailed,26120,16.65,34640,16.85,35060,51-6021
+99,000000,cross-industry,1235,51-6031,Sewing Machine Operators,detailed,104880,18.08,37600,17.63,36670,51-6031
+99,000000,cross-industry,1235,51-6041,Shoe and Leather Workers and Repairers,detailed,7450,18.83,39160,18.17,37800,51-6041
+99,000000,cross-industry,1235,51-6042,Shoe Machine Operators and Tenders,detailed,3280,17.44,36280,17.14,35650,51-6042
+99,000000,cross-industry,1235,51-6051,"Sewers, Hand",detailed,2190,17.89,37210,17.54,36480,51-6051
+99,000000,cross-industry,1235,51-6052,"Tailors, Dressmakers, and Custom Sewers",detailed,13920,21.7,45140,20.02,41640,51-6052
+99,000000,cross-industry,1235,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,detailed,5310,19.41,40380,18.36,38180,51-6061
+99,000000,cross-industry,1235,51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",detailed,9000,19.01,39530,18.64,38760,51-6062
+99,000000,cross-industry,1235,51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",detailed,13030,19.58,40720,19.01,39530,51-6063
+99,000000,cross-industry,1235,51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",detailed,22020,19.29,40120,18.59,38670,51-6064
+99,000000,cross-industry,1235,51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",detailed,12850,23.36,48580,22.29,46350,51-6091
+99,000000,cross-industry,1235,51-6092,Fabric and Apparel Patternmakers,detailed,2950,34.34,71420,30.17,62750,51-6092
+99,000000,cross-industry,1235,51-6093,Upholsterers,detailed,20140,22.76,47340,22.28,46340,51-6093
+99,000000,cross-industry,1235,51-6099,"Textile, Apparel, and Furnishings Workers, All Other",detailed,13530,19.5,40560,17.93,37280,51-6099
+99,000000,cross-industry,1235,51-7011,Cabinetmakers and Bench Carpenters,detailed,77170,23.22,48290,22.44,46680,51-7011
+99,000000,cross-industry,1235,51-7021,Furniture Finishers,detailed,14480,21.78,45300,21.41,44540,51-7021
+99,000000,cross-industry,1235,51-7031,"Model Makers, Wood",detailed,280,30.61,63670,27.19,56550,51-7031
+99,000000,cross-industry,1235,51-7032,"Patternmakers, Wood",detailed,220,26.08,54240,23.86,49630,51-7032
+99,000000,cross-industry,1235,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",detailed,40850,20.95,43580,20.56,42770,51-7041
+99,000000,cross-industry,1235,51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",detailed,61420,20.95,43570,20.86,43380,51-7042
+99,000000,cross-industry,1235,51-7099,"Woodworkers, All Other",detailed,5490,22.15,46070,21.41,44530,51-7099
+99,000000,cross-industry,1235,51-8011,Nuclear Power Reactor Operators,detailed,5150,58.36,121380,59.08,122890,51-8011
+99,000000,cross-industry,1235,51-8012,Power Distributors and Dispatchers,detailed,8520,53.52,111320,51.31,106730,51-8012
+99,000000,cross-industry,1235,51-8013,Power Plant Operators,detailed,29320,47.97,99790,49.06,102040,51-8013
+99,000000,cross-industry,1235,51-8021,Stationary Engineers and Boiler Operators,detailed,28250,40.37,83960,37.8,78620,51-8021
+99,000000,cross-industry,1235,51-8031,Water and Wastewater Treatment Plant and System Operators,detailed,128490,30.07,62540,28.86,60020,51-8031
+99,000000,cross-industry,1235,51-8091,Chemical Plant and System Operators,detailed,16610,38.45,79970,37.56,78120,51-8091
+99,000000,cross-industry,1235,51-8092,Gas Plant Operators,detailed,18030,42.65,88710,42.22,87820,51-8092
+99,000000,cross-industry,1235,51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",detailed,33160,43.57,90630,46.5,96710,51-8093
+99,000000,cross-industry,1235,51-8099,"Plant and System Operators, All Other",detailed,14080,31.59,65700,30.03,62470,51-8099
+99,000000,cross-industry,1235,51-9011,Chemical Equipment Operators and Tenders,detailed,139630,29.19,60710,27.9,58040,51-9011
+99,000000,cross-industry,1235,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",detailed,60100,26.94,56030,24.81,51610,51-9012
+99,000000,cross-industry,1235,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",detailed,26000,24.7,51380,23.34,48540,51-9021
+99,000000,cross-industry,1235,51-9022,"Grinding and Polishing Workers, Hand",detailed,10510,21.64,45020,20.51,42660,51-9022
+99,000000,cross-industry,1235,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",detailed,94920,25.04,52090,23.55,48990,51-9023
+99,000000,cross-industry,1235,51-9031,"Cutters and Trimmers, Hand",detailed,6060,19.74,41050,18.28,38020,51-9031
+99,000000,cross-industry,1235,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",detailed,44980,22.82,47460,22.39,46570,51-9032
+99,000000,cross-industry,1235,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",detailed,58770,22.72,47260,22,45760,51-9041
+99,000000,cross-industry,1235,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",detailed,14280,24.49,50940,23.1,48040,51-9051
+99,000000,cross-industry,1235,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",detailed,597370,25.7,53450,23.35,48570,51-9061
+99,000000,cross-industry,1235,51-9071,Jewelers and Precious Stone and Metal Workers,detailed,22440,27.87,57960,25.26,52540,51-9071
+99,000000,cross-industry,1235,51-9081,Dental Laboratory Technicians,detailed,34410,26.1,54290,23.85,49610,51-9081
+99,000000,cross-industry,1235,51-9082,Medical Appliance Technicians,detailed,11280,25.35,52730,23.09,48030,51-9082
+99,000000,cross-industry,1235,51-9083,Ophthalmic Laboratory Technicians,detailed,18660,20.76,43190,18.97,39460,51-9083
+99,000000,cross-industry,1235,51-9111,Packaging and Filling Machine Operators and Tenders,detailed,379060,21.44,44590,20.78,43220,51-9111
+99,000000,cross-industry,1235,51-9123,"Painting, Coating, and Decorating Workers",detailed,7940,21.73,45210,20,41600,51-9123
+99,000000,cross-industry,1235,51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",detailed,158740,25.3,52620,23.2,48250,51-9124
+99,000000,cross-industry,1235,51-9141,Semiconductor Processing Technicians,detailed,31460,28.93,60180,24.73,51430,51-9141
+99,000000,cross-industry,1235,51-9151,Photographic Process Workers and Processing Machine Operators,detailed,4800,22.14,46050,19.52,40610,51-9151
+99,000000,cross-industry,1235,51-9161,Computer Numerically Controlled Tool Operators,detailed,169450,26.11,54320,24.37,50690,51-9161
+99,000000,cross-industry,1235,51-9162,Computer Numerically Controlled Tool Programmers,detailed,28500,34.72,72210,32.75,68120,51-9162
+99,000000,cross-industry,1235,51-9191,Adhesive Bonding Machine Operators and Tenders,detailed,11500,22.53,46850,22.34,46460,51-9191
+99,000000,cross-industry,1235,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",detailed,14760,21.44,44600,20.93,43530,51-9192
+99,000000,cross-industry,1235,51-9193,Cooling and Freezing Equipment Operators and Tenders,detailed,6900,21.61,44940,19.87,41330,51-9193
+99,000000,cross-industry,1235,51-9194,Etchers and Engravers,detailed,7750,22.27,46320,20.82,43310,51-9194
+99,000000,cross-industry,1235,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",detailed,33190,22.84,47500,22.2,46170,51-9195
+99,000000,cross-industry,1235,51-9196,"Paper Goods Machine Setters, Operators, and Tenders",detailed,96130,25.4,52840,24.17,50270,51-9196
+99,000000,cross-industry,1235,51-9197,Tire Builders,detailed,20770,27.48,57160,27.59,57390,51-9197
+99,000000,cross-industry,1235,51-9198,Helpers--Production Workers,detailed,165700,19.77,41120,18.78,39070,51-9198
+99,000000,cross-industry,1235,51-9199,"Production Workers, All Other",detailed,251700,21.34,44380,19.29,40110,51-9199
+99,000000,cross-industry,1235,53-1041,Aircraft Cargo Handling Supervisors,detailed,9760,31.26,65010,27.97,58170,53-1041
+99,000000,cross-industry,1235,53-1047,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",detailed,623640,32.14,66860,30.23,62890,53-1047
+99,000000,cross-industry,1235,53-2011,"Airline Pilots, Copilots, and Flight Engineers",detailed,103560,*,288650,*,232140,53-2011
+99,000000,cross-industry,1235,53-2012,Commercial Pilots,detailed,47630,*,146080,*,123220,53-2012
+99,000000,cross-industry,1235,53-2021,Air Traffic Controllers,detailed,22510,70.43,146490,71.19,148080,53-2021
+99,000000,cross-industry,1235,53-2022,Airfield Operations Specialists,detailed,15190,30.58,63610,27.33,56850,53-2022
+99,000000,cross-industry,1235,53-2031,Flight Attendants,detailed,131650,*,77440,*,63580,53-2031
+99,000000,cross-industry,1235,53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",detailed,12630,17.41,36210,17.04,35450,53-3011
+99,000000,cross-industry,1235,53-3031,Driver/Sales Workers,detailed,409180,19.58,40730,18.64,38770,53-3031
+99,000000,cross-industry,1235,53-3032,Heavy and Tractor-Trailer Truck Drivers,detailed,2062040,28.71,59710,28.19,58640,53-3032
+99,000000,cross-industry,1235,53-3033,Light Truck Drivers,detailed,983300,23.45,48770,21.57,44860,53-3033
+99,000000,cross-industry,1235,53-3051,"Bus Drivers, School",detailed,402930,23.28,48430,23.04,47920,53-3051
+99,000000,cross-industry,1235,53-3052,"Bus Drivers, Transit and Intercity",detailed,159240,28.98,60280,28.39,59050,53-3052
+99,000000,cross-industry,1235,53-3053,Shuttle Drivers and Chauffeurs,detailed,248530,19.17,39880,17.93,37290,53-3053
+99,000000,cross-industry,1235,53-3054,Taxi Drivers,detailed,41050,24.01,49930,20.24,42100,53-3054
+99,000000,cross-industry,1235,53-3099,"Motor Vehicle Operators, All Other",detailed,46880,20.4,42430,17.87,37180,53-3099
+99,000000,cross-industry,1235,53-4011,Locomotive Engineers,detailed,33470,41.3,85900,39.14,81410,53-4011
+99,000000,cross-industry,1235,53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",detailed,3920,32.91,68450,29.14,60600,53-4013
+99,000000,cross-industry,1235,53-4022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",detailed,12400,33.19,69030,33.1,68840,53-4022
+99,000000,cross-industry,1235,53-4031,Railroad Conductors and Yardmasters,detailed,46440,38.03,79100,37.5,78000,53-4031
+99,000000,cross-industry,1235,53-4041,Subway and Streetcar Operators,detailed,10200,37.1,77170,41.53,86380,53-4041
+99,000000,cross-industry,1235,53-4099,"Rail Transportation Workers, All Other",detailed,1120,28.91,60140,27.1,56360,53-4099
+99,000000,cross-industry,1235,53-5011,Sailors and Marine Oilers,detailed,31670,27.32,56830,24.77,51520,53-5011
+99,000000,cross-industry,1235,53-5021,"Captains, Mates, and Pilots of Water Vessels",detailed,36850,49.87,103720,44.45,92460,53-5021
+99,000000,cross-industry,1235,53-5022,Motorboat Operators,detailed,2480,27.05,56270,22.85,47520,53-5022
+99,000000,cross-industry,1235,53-5031,Ship Engineers,detailed,8400,53.75,111790,52.66,109530,53-5031
+99,000000,cross-industry,1235,53-6011,Bridge and Lock Tenders,detailed,3040,26.62,55370,27.74,57700,53-6011
+99,000000,cross-industry,1235,53-6021,Parking Attendants,detailed,137880,16.82,34990,16.9,35150,53-6021
+99,000000,cross-industry,1235,53-6031,Automotive and Watercraft Service Attendants,detailed,102010,17.68,36780,17.15,35670,53-6031
+99,000000,cross-industry,1235,53-6032,Aircraft Service Attendants,detailed,31300,20.83,43330,19.45,40450,53-6032
+99,000000,cross-industry,1235,53-6041,Traffic Technicians,detailed,7860,29.83,62050,28.41,59090,53-6041
+99,000000,cross-industry,1235,53-6051,Transportation Inspectors,detailed,24500,42.57,88540,44.28,92100,53-6051
+99,000000,cross-industry,1235,53-6061,Passenger Attendants,detailed,27110,18.18,37820,18.14,37720,53-6061
+99,000000,cross-industry,1235,53-6099,"Transportation Workers, All Other",detailed,13550,24.47,50890,21.95,45650,53-6099
+99,000000,cross-industry,1235,53-7011,Conveyor Operators and Tenders,detailed,22930,21.68,45080,20.39,42420,53-7011
+99,000000,cross-industry,1235,53-7021,Crane and Tower Operators,detailed,42890,34.68,72130,32.73,68080,53-7021
+99,000000,cross-industry,1235,53-7031,Dredge Operators,detailed,1040,26.98,56120,23.86,49640,53-7031
+99,000000,cross-industry,1235,53-7041,Hoist and Winch Operators,detailed,2600,32.55,67710,27.14,56450,53-7041
+99,000000,cross-industry,1235,53-7051,Industrial Truck and Tractor Operators,detailed,774420,23.25,48370,22.32,46420,53-7051
+99,000000,cross-industry,1235,53-7061,Cleaners of Vehicles and Equipment,detailed,380430,17.78,36980,17.23,35830,53-7061
+99,000000,cross-industry,1235,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",detailed,2950280,20.32,42260,19.35,40240,53-7062
+99,000000,cross-industry,1235,53-7063,Machine Feeders and Offbearers,detailed,42330,20.99,43660,19.82,41220,53-7063
+99,000000,cross-industry,1235,53-7064,"Packers and Packagers, Hand",detailed,559820,18.05,37540,17.44,36280,53-7064
+99,000000,cross-industry,1235,53-7065,Stockers and Order Fillers,detailed,2833810,19.01,39540,17.95,37330,53-7065
+99,000000,cross-industry,1235,53-7071,Gas Compressor and Gas Pumping Station Operators,detailed,3510,35.87,74610,37.17,77320,53-7071
+99,000000,cross-industry,1235,53-7072,"Pump Operators, Except Wellhead Pumpers",detailed,9780,30.75,63960,29.7,61770,53-7072
+99,000000,cross-industry,1235,53-7073,Wellhead Pumpers,detailed,17990,33.83,70370,33.63,69960,53-7073
+99,000000,cross-industry,1235,53-7081,Refuse and Recyclable Material Collectors,detailed,147240,25.39,52820,23.89,49690,53-7081
+99,000000,cross-industry,1235,53-7121,"Tank Car, Truck, and Ship Loaders",detailed,10700,28.83,59970,28.3,58870,53-7121
+99,000000,cross-industry,1235,53-7199,"Material Moving Workers, All Other",detailed,23480,21.94,45640,20.1,41800,53-7199

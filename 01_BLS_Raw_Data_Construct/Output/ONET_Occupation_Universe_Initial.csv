@@ -1,0 +1,782 @@
+sector,soc6,occupation_title,onet_soc_code,onet_title
+Finance,11-1011,Chief Executives,11-1011.00,Chief Executives
+Finance,11-1011,Chief Executives,11-1011.03,Chief Sustainability Officers
+Finance,11-1021,General and Operations Managers,11-1021.00,General and Operations Managers
+Finance,11-2011,Advertising and Promotions Managers,11-2011.00,Advertising and Promotions Managers
+Finance,11-2021,Marketing Managers,11-2021.00,Marketing Managers
+Finance,11-2022,Sales Managers,11-2022.00,Sales Managers
+Finance,11-2032,Public Relations Managers,11-2032.00,Public Relations Managers
+Finance,11-2033,Fundraising Managers,11-2033.00,Fundraising Managers
+Finance,11-3012,Administrative Services Managers,11-3012.00,Administrative Services Managers
+Finance,11-3013,Facilities Managers,11-3013.00,Facilities Managers
+Finance,11-3013,Facilities Managers,11-3013.01,Security Managers
+Finance,11-3021,Computer and Information Systems Managers,11-3021.00,Computer and Information Systems Managers
+Finance,11-3031,Financial Managers,11-3031.00,Financial Managers
+Finance,11-3031,Financial Managers,11-3031.01,Treasurers and Controllers
+Finance,11-3031,Financial Managers,11-3031.03,Investment Fund Managers
+Finance,11-3051,Industrial Production Managers,11-3051.00,Industrial Production Managers
+Finance,11-3051,Industrial Production Managers,11-3051.01,Quality Control Systems Managers
+Finance,11-3051,Industrial Production Managers,11-3051.02,Geothermal Production Managers
+Finance,11-3051,Industrial Production Managers,11-3051.03,Biofuels Production Managers
+Finance,11-3051,Industrial Production Managers,11-3051.04,Biomass Power Plant Managers
+Finance,11-3051,Industrial Production Managers,11-3051.06,Hydroelectric Production Managers
+Finance,11-3061,Purchasing Managers,11-3061.00,Purchasing Managers
+Finance,11-3071,"Transportation, Storage, and Distribution Managers",11-3071.00,"Transportation, Storage, and Distribution Managers"
+Finance,11-3071,"Transportation, Storage, and Distribution Managers",11-3071.04,Supply Chain Managers
+Finance,11-3111,Compensation and Benefits Managers,11-3111.00,Compensation and Benefits Managers
+Finance,11-3121,Human Resources Managers,11-3121.00,Human Resources Managers
+Finance,11-3131,Training and Development Managers,11-3131.00,Training and Development Managers
+Education,11-9013,"Farmers, Ranchers, and Other Agricultural Managers",11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers"
+Finance,11-9021,Construction Managers,11-9021.00,Construction Managers
+Education,11-9031,"Education and Childcare Administrators, Preschool and Daycare",11-9031.00,"Education and Childcare Administrators, Preschool and Daycare"
+Education,11-9032,"Education Administrators, Kindergarten through Secondary",11-9032.00,"Education Administrators, Kindergarten through Secondary"
+Education,11-9033,"Education Administrators, Postsecondary",11-9033.00,"Education Administrators, Postsecondary"
+Education,11-9039,"Education Administrators, All Other",11-9039.00,"Education Administrators, All Other"
+Finance,11-9041,Architectural and Engineering Managers,11-9041.00,Architectural and Engineering Managers
+Finance,11-9041,Architectural and Engineering Managers,11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers
+Education,11-9051,Food Service Managers,11-9051.00,Food Service Managers
+Education,11-9072,"Entertainment and Recreation Managers, Except Gambling",11-9072.00,"Entertainment and Recreation Managers, Except Gambling"
+Education,11-9081,Lodging Managers,11-9081.00,Lodging Managers
+Finance,11-9111,Medical and Health Services Managers,11-9111.00,Medical and Health Services Managers
+Finance,11-9121,Natural Sciences Managers,11-9121.00,Natural Sciences Managers
+Finance,11-9121,Natural Sciences Managers,11-9121.01,Clinical Research Coordinators
+Finance,11-9121,Natural Sciences Managers,11-9121.02,Water Resource Specialists
+Finance,11-9141,"Property, Real Estate, and Community Association Managers",11-9141.00,"Property, Real Estate, and Community Association Managers"
+Finance,11-9151,Social and Community Service Managers,11-9151.00,Social and Community Service Managers
+Education,11-9161,Emergency Management Directors,11-9161.00,Emergency Management Directors
+Finance,11-9179,"Personal Service Managers, All Other",11-9179.00,"Personal Service Managers, All Other"
+Finance,11-9179,"Personal Service Managers, All Other",11-9179.01,Fitness and Wellness Coordinators
+Finance,11-9179,"Personal Service Managers, All Other",11-9179.02,Spa Managers
+Finance,11-9199,"Managers, All Other",11-9199.00,"Managers, All Other"
+Finance,11-9199,"Managers, All Other",11-9199.01,Regulatory Affairs Managers
+Finance,11-9199,"Managers, All Other",11-9199.02,Compliance Managers
+Finance,11-9199,"Managers, All Other",11-9199.08,Loss Prevention Managers
+Finance,11-9199,"Managers, All Other",11-9199.09,Wind Energy Operations Managers
+Finance,11-9199,"Managers, All Other",11-9199.10,Wind Energy Development Managers
+Finance,11-9199,"Managers, All Other",11-9199.11,Brownfield Redevelopment Specialists and Site Managers
+Legal,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes"
+Finance,13-1031,"Claims Adjusters, Examiners, and Investigators",13-1031.00,"Claims Adjusters, Examiners, and Investigators"
+Finance,13-1032,"Insurance Appraisers, Auto Damage",13-1032.00,"Insurance Appraisers, Auto Damage"
+Finance,13-1041,Compliance Officers,13-1041.00,Compliance Officers
+Finance,13-1041,Compliance Officers,13-1041.01,Environmental Compliance Inspectors
+Finance,13-1041,Compliance Officers,13-1041.03,Equal Opportunity Representatives and Officers
+Finance,13-1041,Compliance Officers,13-1041.04,Government Property Inspectors and Investigators
+Finance,13-1041,Compliance Officers,13-1041.06,Coroners
+Finance,13-1041,Compliance Officers,13-1041.07,Regulatory Affairs Specialists
+Finance,13-1041,Compliance Officers,13-1041.08,Customs Brokers
+Finance,13-1051,Cost Estimators,13-1051.00,Cost Estimators
+Finance,13-1071,Human Resources Specialists,13-1071.00,Human Resources Specialists
+Finance,13-1075,Labor Relations Specialists,13-1075.00,Labor Relations Specialists
+Finance,13-1081,Logisticians,13-1081.00,Logisticians
+Finance,13-1081,Logisticians,13-1081.01,Logistics Engineers
+Finance,13-1081,Logisticians,13-1081.02,Logistics Analysts
+Finance,13-1082,Project Management Specialists,13-1082.00,Project Management Specialists
+Finance,13-1111,Management Analysts,13-1111.00,Management Analysts
+Finance,13-1121,"Meeting, Convention, and Event Planners",13-1121.00,"Meeting, Convention, and Event Planners"
+Finance,13-1131,Fundraisers,13-1131.00,Fundraisers
+Finance,13-1141,"Compensation, Benefits, and Job Analysis Specialists",13-1141.00,"Compensation, Benefits, and Job Analysis Specialists"
+Finance,13-1151,Training and Development Specialists,13-1151.00,Training and Development Specialists
+Finance,13-1161,Market Research Analysts and Marketing Specialists,13-1161.00,Market Research Analysts and Marketing Specialists
+Finance,13-1161,Market Research Analysts and Marketing Specialists,13-1161.01,Search Marketing Strategists
+Finance,13-1199,"Business Operations Specialists, All Other",13-1199.00,"Business Operations Specialists, All Other"
+Finance,13-1199,"Business Operations Specialists, All Other",13-1199.04,Business Continuity Planners
+Finance,13-1199,"Business Operations Specialists, All Other",13-1199.05,Sustainability Specialists
+Finance,13-1199,"Business Operations Specialists, All Other",13-1199.06,Online Merchants
+Finance,13-1199,"Business Operations Specialists, All Other",13-1199.07,Security Management Specialists
+Finance,13-2011,Accountants and Auditors,13-2011.00,Accountants and Auditors
+Finance,13-2031,Budget Analysts,13-2031.00,Budget Analysts
+Finance,13-2041,Credit Analysts,13-2041.00,Credit Analysts
+Finance,13-2051,Financial and Investment Analysts,13-2051.00,Financial and Investment Analysts
+Finance,13-2052,Personal Financial Advisors,13-2052.00,Personal Financial Advisors
+Finance,13-2053,Insurance Underwriters,13-2053.00,Insurance Underwriters
+Finance,13-2054,Financial Risk Specialists,13-2054.00,Financial Risk Specialists
+Finance,13-2061,Financial Examiners,13-2061.00,Financial Examiners
+Finance,13-2071,Credit Counselors,13-2071.00,Credit Counselors
+Finance,13-2072,Loan Officers,13-2072.00,Loan Officers
+Finance,13-2082,Tax Preparers,13-2082.00,Tax Preparers
+Finance,13-2099,"Financial Specialists, All Other",13-2099.00,"Financial Specialists, All Other"
+Finance,13-2099,"Financial Specialists, All Other",13-2099.01,Financial Quantitative Analysts
+Finance,13-2099,"Financial Specialists, All Other",13-2099.04,"Fraud Examiners, Investigators and Analysts"
+Finance,15-1211,Computer Systems Analysts,15-1211.00,Computer Systems Analysts
+Finance,15-1211,Computer Systems Analysts,15-1211.01,Health Informatics Specialists
+Finance,15-1212,Information Security Analysts,15-1212.00,Information Security Analysts
+Finance,15-1221,Computer and Information Research Scientists,15-1221.00,Computer and Information Research Scientists
+Finance,15-1231,Computer Network Support Specialists,15-1231.00,Computer Network Support Specialists
+Finance,15-1232,Computer User Support Specialists,15-1232.00,Computer User Support Specialists
+Finance,15-1241,Computer Network Architects,15-1241.00,Computer Network Architects
+Finance,15-1241,Computer Network Architects,15-1241.01,Telecommunications Engineering Specialists
+Finance,15-1242,Database Administrators,15-1242.00,Database Administrators
+Finance,15-1243,Database Architects,15-1243.00,Database Architects
+Finance,15-1243,Database Architects,15-1243.01,Data Warehousing Specialists
+Finance,15-1244,Network and Computer Systems Administrators,15-1244.00,Network and Computer Systems Administrators
+Finance,15-1251,Computer Programmers,15-1251.00,Computer Programmers
+Finance,15-1252,Software Developers,15-1252.00,Software Developers
+Finance,15-1253,Software Quality Assurance Analysts and Testers,15-1253.00,Software Quality Assurance Analysts and Testers
+Finance,15-1254,Web Developers,15-1254.00,Web Developers
+Finance,15-1255,Web and Digital Interface Designers,15-1255.00,Web and Digital Interface Designers
+Finance,15-1255,Web and Digital Interface Designers,15-1255.01,Video Game Designers
+Finance,15-1299,"Computer Occupations, All Other",15-1299.00,"Computer Occupations, All Other"
+Finance,15-1299,"Computer Occupations, All Other",15-1299.01,Web Administrators
+Finance,15-1299,"Computer Occupations, All Other",15-1299.02,Geographic Information Systems Technologists and Technicians
+Finance,15-1299,"Computer Occupations, All Other",15-1299.03,Document Management Specialists
+Finance,15-1299,"Computer Occupations, All Other",15-1299.04,Penetration Testers
+Finance,15-1299,"Computer Occupations, All Other",15-1299.05,Information Security Engineers
+Finance,15-1299,"Computer Occupations, All Other",15-1299.06,Digital Forensics Analysts
+Finance,15-1299,"Computer Occupations, All Other",15-1299.07,Blockchain Engineers
+Finance,15-1299,"Computer Occupations, All Other",15-1299.08,Computer Systems Engineers/Architects
+Finance,15-1299,"Computer Occupations, All Other",15-1299.09,Information Technology Project Managers
+Finance,15-2011,Actuaries,15-2011.00,Actuaries
+Education,15-2021,Mathematicians,15-2021.00,Mathematicians
+Finance,15-2031,Operations Research Analysts,15-2031.00,Operations Research Analysts
+Finance,15-2041,Statisticians,15-2041.00,Statisticians
+Finance,15-2041,Statisticians,15-2041.01,Biostatisticians
+Finance,15-2051,Data Scientists,15-2051.00,Data Scientists
+Finance,15-2051,Data Scientists,15-2051.01,Business Intelligence Analysts
+Finance,15-2051,Data Scientists,15-2051.02,Clinical Data Managers
+Finance,15-2099,"Mathematical Science Occupations, All Other",15-2099.00,"Mathematical Science Occupations, All Other"
+Finance,15-2099,"Mathematical Science Occupations, All Other",15-2099.01,Bioinformatics Technicians
+Finance,17-1011,"Architects, Except Landscape and Naval",17-1011.00,"Architects, Except Landscape and Naval"
+Education,17-1012,Landscape Architects,17-1012.00,Landscape Architects
+Education,17-1021,Cartographers and Photogrammetrists,17-1021.00,Cartographers and Photogrammetrists
+Finance,17-1022,Surveyors,17-1022.00,Surveyors
+Finance,17-1022,Surveyors,17-1022.01,Geodetic Surveyors
+Education,17-2011,Aerospace Engineers,17-2011.00,Aerospace Engineers
+Education,17-2021,Agricultural Engineers,17-2021.00,Agricultural Engineers
+Education,17-2031,Bioengineers and Biomedical Engineers,17-2031.00,Bioengineers and Biomedical Engineers
+Education,17-2041,Chemical Engineers,17-2041.00,Chemical Engineers
+Finance,17-2051,Civil Engineers,17-2051.00,Civil Engineers
+Finance,17-2051,Civil Engineers,17-2051.01,Transportation Engineers
+Finance,17-2051,Civil Engineers,17-2051.02,Water/Wastewater Engineers
+Finance,17-2061,Computer Hardware Engineers,17-2061.00,Computer Hardware Engineers
+Education,17-2071,Electrical Engineers,17-2071.00,Electrical Engineers
+Finance,17-2072,"Electronics Engineers, Except Computer",17-2072.00,"Electronics Engineers, Except Computer"
+Finance,17-2072,"Electronics Engineers, Except Computer",17-2072.01,Radio Frequency Identification Device Specialists
+Education,17-2081,Environmental Engineers,17-2081.00,Environmental Engineers
+Finance,17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+Finance,17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-2111.02,Fire-Prevention and Protection Engineers
+Finance,17-2112,Industrial Engineers,17-2112.00,Industrial Engineers
+Finance,17-2112,Industrial Engineers,17-2112.01,Human Factors Engineers and Ergonomists
+Finance,17-2112,Industrial Engineers,17-2112.02,Validation Engineers
+Finance,17-2112,Industrial Engineers,17-2112.03,Manufacturing Engineers
+Education,17-2131,Materials Engineers,17-2131.00,Materials Engineers
+Finance,17-2141,Mechanical Engineers,17-2141.00,Mechanical Engineers
+Finance,17-2141,Mechanical Engineers,17-2141.01,Fuel Cell Engineers
+Finance,17-2141,Mechanical Engineers,17-2141.02,Automotive Engineers
+Education,17-2161,Nuclear Engineers,17-2161.00,Nuclear Engineers
+Finance,17-2171,Petroleum Engineers,17-2171.00,Petroleum Engineers
+Finance,17-2199,"Engineers, All Other",17-2199.00,"Engineers, All Other"
+Finance,17-2199,"Engineers, All Other",17-2199.03,"Energy Engineers, Except Wind and Solar"
+Finance,17-2199,"Engineers, All Other",17-2199.05,Mechatronics Engineers
+Finance,17-2199,"Engineers, All Other",17-2199.06,Microsystems Engineers
+Finance,17-2199,"Engineers, All Other",17-2199.07,Photonics Engineers
+Finance,17-2199,"Engineers, All Other",17-2199.08,Robotics Engineers
+Finance,17-2199,"Engineers, All Other",17-2199.09,Nanosystems Engineers
+Finance,17-2199,"Engineers, All Other",17-2199.10,Wind Energy Engineers
+Finance,17-2199,"Engineers, All Other",17-2199.11,Solar Energy Systems Engineers
+Education,17-3011,Architectural and Civil Drafters,17-3011.00,Architectural and Civil Drafters
+Education,17-3013,Mechanical Drafters,17-3013.00,Mechanical Drafters
+Education,17-3019,"Drafters, All Other",17-3019.00,"Drafters, All Other"
+Education,17-3021,Aerospace Engineering and Operations Technologists and Technicians,17-3021.00,Aerospace Engineering and Operations Technologists and Technicians
+Education,17-3022,Civil Engineering Technologists and Technicians,17-3022.00,Civil Engineering Technologists and Technicians
+Education,17-3023,Electrical and Electronic Engineering Technologists and Technicians,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians
+Education,17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians
+Education,17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,17-3024.01,Robotics Technicians
+Education,17-3025,Environmental Engineering Technologists and Technicians,17-3025.00,Environmental Engineering Technologists and Technicians
+Education,17-3026,Industrial Engineering Technologists and Technicians,17-3026.00,Industrial Engineering Technologists and Technicians
+Education,17-3026,Industrial Engineering Technologists and Technicians,17-3026.01,Nanotechnology Engineering Technologists and Technicians
+Education,17-3027,Mechanical Engineering Technologists and Technicians,17-3027.00,Mechanical Engineering Technologists and Technicians
+Education,17-3027,Mechanical Engineering Technologists and Technicians,17-3027.01,Automotive Engineering Technicians
+Education,17-3028,Calibration Technologists and Technicians,17-3028.00,Calibration Technologists and Technicians
+Finance,17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",17-3029.00,"Engineering Technologists and Technicians, Except Drafters, All Other"
+Finance,17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",17-3029.01,Non-Destructive Testing Specialists
+Finance,17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",17-3029.08,Photonics Technicians
+Finance,17-3031,Surveying and Mapping Technicians,17-3031.00,Surveying and Mapping Technicians
+Education,19-1011,Animal Scientists,19-1011.00,Animal Scientists
+Education,19-1012,Food Scientists and Technologists,19-1012.00,Food Scientists and Technologists
+Education,19-1013,Soil and Plant Scientists,19-1013.00,Soil and Plant Scientists
+Education,19-1021,Biochemists and Biophysicists,19-1021.00,Biochemists and Biophysicists
+Education,19-1022,Microbiologists,19-1022.00,Microbiologists
+Education,19-1023,Zoologists and Wildlife Biologists,19-1023.00,Zoologists and Wildlife Biologists
+Education,19-1029,"Biological Scientists, All Other",19-1029.00,"Biological Scientists, All Other"
+Education,19-1029,"Biological Scientists, All Other",19-1029.01,Bioinformatics Scientists
+Education,19-1029,"Biological Scientists, All Other",19-1029.02,Molecular and Cellular Biologists
+Education,19-1029,"Biological Scientists, All Other",19-1029.03,Geneticists
+Education,19-1029,"Biological Scientists, All Other",19-1029.04,Biologists
+Education,19-1031,Conservation Scientists,19-1031.00,Conservation Scientists
+Education,19-1031,Conservation Scientists,19-1031.02,Range Managers
+Education,19-1031,Conservation Scientists,19-1031.03,Park Naturalists
+Education,19-1032,Foresters,19-1032.00,Foresters
+Education,19-1041,Epidemiologists,19-1041.00,Epidemiologists
+Education,19-1042,"Medical Scientists, Except Epidemiologists",19-1042.00,"Medical Scientists, Except Epidemiologists"
+Education,19-1099,"Life Scientists, All Other",19-1099.00,"Life Scientists, All Other"
+Education,19-2011,Astronomers,19-2011.00,Astronomers
+Education,19-2012,Physicists,19-2012.00,Physicists
+Education,19-2021,Atmospheric and Space Scientists,19-2021.00,Atmospheric and Space Scientists
+Education,19-2031,Chemists,19-2031.00,Chemists
+Education,19-2032,Materials Scientists,19-2032.00,Materials Scientists
+Finance,19-2041,"Environmental Scientists and Specialists, Including Health",19-2041.00,"Environmental Scientists and Specialists, Including Health"
+Finance,19-2041,"Environmental Scientists and Specialists, Including Health",19-2041.01,Climate Change Policy Analysts
+Finance,19-2041,"Environmental Scientists and Specialists, Including Health",19-2041.02,Environmental Restoration Planners
+Finance,19-2041,"Environmental Scientists and Specialists, Including Health",19-2041.03,Industrial Ecologists
+Education,19-2042,"Geoscientists, Except Hydrologists and Geographers",19-2042.00,"Geoscientists, Except Hydrologists and Geographers"
+Education,19-2043,Hydrologists,19-2043.00,Hydrologists
+Education,19-2099,"Physical Scientists, All Other",19-2099.00,"Physical Scientists, All Other"
+Education,19-2099,"Physical Scientists, All Other",19-2099.01,Remote Sensing Scientists and Technologists
+Finance,19-3011,Economists,19-3011.00,Economists
+Finance,19-3011,Economists,19-3011.01,Environmental Economists
+Education,19-3022,Survey Researchers,19-3022.00,Survey Researchers
+Education,19-3032,Industrial-Organizational Psychologists,19-3032.00,Industrial-Organizational Psychologists
+Finance,19-3033,Clinical and Counseling Psychologists,19-3033.00,Clinical and Counseling Psychologists
+Education,19-3034,School Psychologists,19-3034.00,School Psychologists
+Education,19-3039,"Psychologists, All Other",19-3039.00,"Psychologists, All Other"
+Education,19-3039,"Psychologists, All Other",19-3039.02,Neuropsychologists
+Education,19-3039,"Psychologists, All Other",19-3039.03,Clinical Neuropsychologists
+Education,19-3041,Sociologists,19-3041.00,Sociologists
+Education,19-3051,Urban and Regional Planners,19-3051.00,Urban and Regional Planners
+Education,19-3091,Anthropologists and Archeologists,19-3091.00,Anthropologists and Archeologists
+Education,19-3092,Geographers,19-3092.00,Geographers
+Education,19-3093,Historians,19-3093.00,Historians
+Education,19-3094,Political Scientists,19-3094.00,Political Scientists
+Education,19-3099,"Social Scientists and Related Workers, All Other",19-3099.00,"Social Scientists and Related Workers, All Other"
+Education,19-3099,"Social Scientists and Related Workers, All Other",19-3099.01,Transportation Planners
+Education,19-4012,Agricultural Technicians,19-4012.00,Agricultural Technicians
+Education,19-4012,Agricultural Technicians,19-4012.01,Precision Agriculture Technicians
+Education,19-4013,Food Science Technicians,19-4013.00,Food Science Technicians
+Education,19-4021,Biological Technicians,19-4021.00,Biological Technicians
+Education,19-4031,Chemical Technicians,19-4031.00,Chemical Technicians
+Education,19-4042,"Environmental Science and Protection Technicians, Including Health",19-4042.00,"Environmental Science and Protection Technicians, Including Health"
+Education,19-4043,"Geological Technicians, Except Hydrologic Technicians",19-4043.00,"Geological Technicians, Except Hydrologic Technicians"
+Education,19-4044,Hydrologic Technicians,19-4044.00,Hydrologic Technicians
+Education,19-4051,Nuclear Technicians,19-4051.00,Nuclear Technicians
+Education,19-4051,Nuclear Technicians,19-4051.02,Nuclear Monitoring Technicians
+Finance,19-4061,Social Science Research Assistants,19-4061.00,Social Science Research Assistants
+Education,19-4071,Forest and Conservation Technicians,19-4071.00,Forest and Conservation Technicians
+Finance,19-4092,Forensic Science Technicians,19-4092.00,Forensic Science Technicians
+Finance,19-4099,"Life, Physical, and Social Science Technicians, All Other",19-4099.00,"Life, Physical, and Social Science Technicians, All Other"
+Finance,19-4099,"Life, Physical, and Social Science Technicians, All Other",19-4099.01,Quality Control Analysts
+Finance,19-4099,"Life, Physical, and Social Science Technicians, All Other",19-4099.03,Remote Sensing Technicians
+Finance,19-5011,Occupational Health and Safety Specialists,19-5011.00,Occupational Health and Safety Specialists
+Finance,19-5012,Occupational Health and Safety Technicians,19-5012.00,Occupational Health and Safety Technicians
+Finance,21-1012,"Educational, Guidance, and Career Counselors and Advisors",21-1012.00,"Educational, Guidance, and Career Counselors and Advisors"
+Education,21-1013,Marriage and Family Therapists,21-1013.00,Marriage and Family Therapists
+Finance,21-1015,Rehabilitation Counselors,21-1015.00,Rehabilitation Counselors
+Finance,21-1019,"Counselors, All Other",21-1019.00,"Counselors, All Other"
+Finance,21-1021,"Child, Family, and School Social Workers",21-1021.00,"Child, Family, and School Social Workers"
+Finance,21-1022,Healthcare Social Workers,21-1022.00,Healthcare Social Workers
+Finance,21-1023,Mental Health and Substance Abuse Social Workers,21-1023.00,Mental Health and Substance Abuse Social Workers
+Finance,21-1029,"Social Workers, All Other",21-1029.00,"Social Workers, All Other"
+Finance,21-1091,Health Education Specialists,21-1091.00,Health Education Specialists
+Healthcare,21-1092,Probation Officers and Correctional Treatment Specialists,21-1092.00,Probation Officers and Correctional Treatment Specialists
+Finance,21-1093,Social and Human Service Assistants,21-1093.00,Social and Human Service Assistants
+Finance,21-1094,Community Health Workers,21-1094.00,Community Health Workers
+Finance,21-1099,"Community and Social Service Specialists, All Other",21-1099.00,"Community and Social Service Specialists, All Other"
+Education,21-2011,Clergy,21-2011.00,Clergy
+Education,21-2021,"Directors, Religious Activities and Education",21-2021.00,"Directors, Religious Activities and Education"
+Education,21-2099,"Religious Workers, All Other",21-2099.00,"Religious Workers, All Other"
+Finance,23-1011,Lawyers,23-1011.00,Lawyers
+Finance,23-1022,"Arbitrators, Mediators, and Conciliators",23-1022.00,"Arbitrators, Mediators, and Conciliators"
+Finance,23-2011,Paralegals and Legal Assistants,23-2011.00,Paralegals and Legal Assistants
+Finance,23-2093,"Title Examiners, Abstractors, and Searchers",23-2093.00,"Title Examiners, Abstractors, and Searchers"
+Finance,23-2099,"Legal Support Workers, All Other",23-2099.00,"Legal Support Workers, All Other"
+Education,25-1011,"Business Teachers, Postsecondary",25-1011.00,"Business Teachers, Postsecondary"
+Education,25-1021,"Computer Science Teachers, Postsecondary",25-1021.00,"Computer Science Teachers, Postsecondary"
+Education,25-1022,"Mathematical Science Teachers, Postsecondary",25-1022.00,"Mathematical Science Teachers, Postsecondary"
+Education,25-1031,"Architecture Teachers, Postsecondary",25-1031.00,"Architecture Teachers, Postsecondary"
+Education,25-1032,"Engineering Teachers, Postsecondary",25-1032.00,"Engineering Teachers, Postsecondary"
+Education,25-1041,"Agricultural Sciences Teachers, Postsecondary",25-1041.00,"Agricultural Sciences Teachers, Postsecondary"
+Education,25-1042,"Biological Science Teachers, Postsecondary",25-1042.00,"Biological Science Teachers, Postsecondary"
+Education,25-1043,"Forestry and Conservation Science Teachers, Postsecondary",25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary"
+Education,25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+Education,25-1052,"Chemistry Teachers, Postsecondary",25-1052.00,"Chemistry Teachers, Postsecondary"
+Education,25-1053,"Environmental Science Teachers, Postsecondary",25-1053.00,"Environmental Science Teachers, Postsecondary"
+Education,25-1054,"Physics Teachers, Postsecondary",25-1054.00,"Physics Teachers, Postsecondary"
+Education,25-1061,"Anthropology and Archeology Teachers, Postsecondary",25-1061.00,"Anthropology and Archeology Teachers, Postsecondary"
+Education,25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+Education,25-1063,"Economics Teachers, Postsecondary",25-1063.00,"Economics Teachers, Postsecondary"
+Education,25-1064,"Geography Teachers, Postsecondary",25-1064.00,"Geography Teachers, Postsecondary"
+Education,25-1065,"Political Science Teachers, Postsecondary",25-1065.00,"Political Science Teachers, Postsecondary"
+Education,25-1066,"Psychology Teachers, Postsecondary",25-1066.00,"Psychology Teachers, Postsecondary"
+Education,25-1067,"Sociology Teachers, Postsecondary",25-1067.00,"Sociology Teachers, Postsecondary"
+Education,25-1069,"Social Sciences Teachers, Postsecondary, All Other",25-1069.00,"Social Sciences Teachers, Postsecondary, All Other"
+Education,25-1071,"Health Specialties Teachers, Postsecondary",25-1071.00,"Health Specialties Teachers, Postsecondary"
+Education,25-1072,"Nursing Instructors and Teachers, Postsecondary",25-1072.00,"Nursing Instructors and Teachers, Postsecondary"
+Education,25-1081,"Education Teachers, Postsecondary",25-1081.00,"Education Teachers, Postsecondary"
+Education,25-1082,"Library Science Teachers, Postsecondary",25-1082.00,"Library Science Teachers, Postsecondary"
+Education,25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary"
+Education,25-1112,"Law Teachers, Postsecondary",25-1112.00,"Law Teachers, Postsecondary"
+Education,25-1113,"Social Work Teachers, Postsecondary",25-1113.00,"Social Work Teachers, Postsecondary"
+Education,25-1121,"Art, Drama, and Music Teachers, Postsecondary",25-1121.00,"Art, Drama, and Music Teachers, Postsecondary"
+Education,25-1122,"Communications Teachers, Postsecondary",25-1122.00,"Communications Teachers, Postsecondary"
+Education,25-1123,"English Language and Literature Teachers, Postsecondary",25-1123.00,"English Language and Literature Teachers, Postsecondary"
+Education,25-1124,"Foreign Language and Literature Teachers, Postsecondary",25-1124.00,"Foreign Language and Literature Teachers, Postsecondary"
+Education,25-1125,"History Teachers, Postsecondary",25-1125.00,"History Teachers, Postsecondary"
+Education,25-1126,"Philosophy and Religion Teachers, Postsecondary",25-1126.00,"Philosophy and Religion Teachers, Postsecondary"
+Education,25-1192,"Family and Consumer Sciences Teachers, Postsecondary",25-1192.00,"Family and Consumer Sciences Teachers, Postsecondary"
+Education,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary"
+Finance,25-1194,"Career/Technical Education Teachers, Postsecondary",25-1194.00,"Career/Technical Education Teachers, Postsecondary"
+Education,25-1199,"Postsecondary Teachers, All Other",25-1199.00,"Postsecondary Teachers, All Other"
+Education,25-2011,"Preschool Teachers, Except Special Education",25-2011.00,"Preschool Teachers, Except Special Education"
+Education,25-2012,"Kindergarten Teachers, Except Special Education",25-2012.00,"Kindergarten Teachers, Except Special Education"
+Education,25-2021,"Elementary School Teachers, Except Special Education",25-2021.00,"Elementary School Teachers, Except Special Education"
+Education,25-2022,"Middle School Teachers, Except Special and Career/Technical Education",25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education"
+Education,25-2023,"Career/Technical Education Teachers, Middle School",25-2023.00,"Career/Technical Education Teachers, Middle School"
+Education,25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education"
+Education,25-2032,"Career/Technical Education Teachers, Secondary School",25-2032.00,"Career/Technical Education Teachers, Secondary School"
+Education,25-2051,"Special Education Teachers, Preschool",25-2051.00,"Special Education Teachers, Preschool"
+Education,25-2057,"Special Education Teachers, Middle School",25-2057.00,"Special Education Teachers, Middle School"
+Education,25-2058,"Special Education Teachers, Secondary School",25-2058.00,"Special Education Teachers, Secondary School"
+Education,25-2059,"Special Education Teachers, All Other",25-2059.00,"Special Education Teachers, All Other"
+Education,25-2059,"Special Education Teachers, All Other",25-2059.01,Adapted Physical Education Specialists
+Education,25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"
+Education,25-3021,Self-Enrichment Teachers,25-3021.00,Self-Enrichment Teachers
+Education,25-3031,"Substitute Teachers, Short-Term",25-3031.00,"Substitute Teachers, Short-Term"
+Education,25-3041,Tutors,25-3041.00,Tutors
+Finance,25-3099,"Teachers and Instructors, All Other",25-3099.00,"Teachers and Instructors, All Other"
+Education,25-4011,Archivists,25-4011.00,Archivists
+Education,25-4012,Curators,25-4012.00,Curators
+Education,25-4013,Museum Technicians and Conservators,25-4013.00,Museum Technicians and Conservators
+Finance,25-4022,Librarians and Media Collections Specialists,25-4022.00,Librarians and Media Collections Specialists
+Education,25-4031,Library Technicians,25-4031.00,Library Technicians
+Education,25-9021,Farm and Home Management Educators,25-9021.00,Farm and Home Management Educators
+Finance,25-9031,Instructional Coordinators,25-9031.00,Instructional Coordinators
+Education,25-9044,"Teaching Assistants, Postsecondary",25-9044.00,"Teaching Assistants, Postsecondary"
+Education,25-9099,"Educational Instruction and Library Workers, All Other",25-9099.00,"Educational Instruction and Library Workers, All Other"
+Finance,27-1011,Art Directors,27-1011.00,Art Directors
+Education,27-1012,Craft Artists,27-1012.00,Craft Artists
+Education,27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+Finance,27-1014,Special Effects Artists and Animators,27-1014.00,Special Effects Artists and Animators
+Education,27-1019,"Artists and Related Workers, All Other",27-1019.00,"Artists and Related Workers, All Other"
+Finance,27-1021,Commercial and Industrial Designers,27-1021.00,Commercial and Industrial Designers
+Education,27-1022,Fashion Designers,27-1022.00,Fashion Designers
+Healthcare,27-1023,Floral Designers,27-1023.00,Floral Designers
+Finance,27-1024,Graphic Designers,27-1024.00,Graphic Designers
+Finance,27-1025,Interior Designers,27-1025.00,Interior Designers
+Education,27-1027,Set and Exhibit Designers,27-1027.00,Set and Exhibit Designers
+Education,27-1029,"Designers, All Other",27-1029.00,"Designers, All Other"
+Education,27-2011,Actors,27-2011.00,Actors
+Finance,27-2012,Producers and Directors,27-2012.00,Producers and Directors
+Finance,27-2012,Producers and Directors,27-2012.03,Media Programming Directors
+Finance,27-2012,Producers and Directors,27-2012.04,Talent Directors
+Finance,27-2012,Producers and Directors,27-2012.05,Media Technical Directors/Managers
+Education,27-2021,Athletes and Sports Competitors,27-2021.00,Athletes and Sports Competitors
+Education,27-2022,Coaches and Scouts,27-2022.00,Coaches and Scouts
+Education,27-2023,"Umpires, Referees, and Other Sports Officials",27-2023.00,"Umpires, Referees, and Other Sports Officials"
+Education,27-2031,Dancers,27-2031.00,Dancers
+Education,27-2032,Choreographers,27-2032.00,Choreographers
+Education,27-2041,Music Directors and Composers,27-2041.00,Music Directors and Composers
+Education,27-2042,Musicians and Singers,27-2042.00,Musicians and Singers
+Education,27-2099,"Entertainers and Performers, Sports and Related Workers, All Other",27-2099.00,"Entertainers and Performers, Sports and Related Workers, All Other"
+Education,27-3011,Broadcast Announcers and Radio Disc Jockeys,27-3011.00,Broadcast Announcers and Radio Disc Jockeys
+Education,27-3023,"News Analysts, Reporters, and Journalists",27-3023.00,"News Analysts, Reporters, and Journalists"
+Finance,27-3031,Public Relations Specialists,27-3031.00,Public Relations Specialists
+Finance,27-3041,Editors,27-3041.00,Editors
+Finance,27-3042,Technical Writers,27-3042.00,Technical Writers
+Finance,27-3043,Writers and Authors,27-3043.00,Writers and Authors
+Finance,27-3043,Writers and Authors,27-3043.05,"Poets, Lyricists and Creative Writers"
+Finance,27-3091,Interpreters and Translators,27-3091.00,Interpreters and Translators
+Education,27-3092,Court Reporters and Simultaneous Captioners,27-3092.00,Court Reporters and Simultaneous Captioners
+Finance,27-3099,"Media and Communication Workers, All Other",27-3099.00,"Media and Communication Workers, All Other"
+Finance,27-4011,Audio and Video Technicians,27-4011.00,Audio and Video Technicians
+Education,27-4012,Broadcast Technicians,27-4012.00,Broadcast Technicians
+Education,27-4014,Sound Engineering Technicians,27-4014.00,Sound Engineering Technicians
+Education,27-4015,Lighting Technicians,27-4015.00,Lighting Technicians
+Finance,27-4021,Photographers,27-4021.00,Photographers
+Finance,27-4031,"Camera Operators, Television, Video, and Film",27-4031.00,"Camera Operators, Television, Video, and Film"
+Finance,27-4032,Film and Video Editors,27-4032.00,Film and Video Editors
+Education,27-4099,"Media and Communication Equipment Workers, All Other",27-4099.00,"Media and Communication Equipment Workers, All Other"
+Education,29-1011,Chiropractors,29-1011.00,Chiropractors
+Finance,29-1021,"Dentists, General",29-1021.00,"Dentists, General"
+Education,29-1022,Oral and Maxillofacial Surgeons,29-1022.00,Oral and Maxillofacial Surgeons
+Healthcare,29-1023,Orthodontists,29-1023.00,Orthodontists
+Healthcare,29-1024,Prosthodontists,29-1024.00,Prosthodontists
+Education,29-1029,"Dentists, All Other Specialists",29-1029.00,"Dentists, All Other Specialists"
+Finance,29-1031,Dietitians and Nutritionists,29-1031.00,Dietitians and Nutritionists
+Education,29-1041,Optometrists,29-1041.00,Optometrists
+Finance,29-1051,Pharmacists,29-1051.00,Pharmacists
+Finance,29-1071,Physician Assistants,29-1071.00,Physician Assistants
+Finance,29-1071,Physician Assistants,29-1071.01,Anesthesiologist Assistants
+Education,29-1081,Podiatrists,29-1081.00,Podiatrists
+Finance,29-1122,Occupational Therapists,29-1122.00,Occupational Therapists
+Finance,29-1122,Occupational Therapists,29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists"
+Finance,29-1123,Physical Therapists,29-1123.00,Physical Therapists
+Education,29-1124,Radiation Therapists,29-1124.00,Radiation Therapists
+Education,29-1125,Recreational Therapists,29-1125.00,Recreational Therapists
+Education,29-1126,Respiratory Therapists,29-1126.00,Respiratory Therapists
+Education,29-1127,Speech-Language Pathologists,29-1127.00,Speech-Language Pathologists
+Education,29-1128,Exercise Physiologists,29-1128.00,Exercise Physiologists
+Finance,29-1129,"Therapists, All Other",29-1129.00,"Therapists, All Other"
+Finance,29-1129,"Therapists, All Other",29-1129.01,Art Therapists
+Finance,29-1129,"Therapists, All Other",29-1129.02,Music Therapists
+Education,29-1131,Veterinarians,29-1131.00,Veterinarians
+Finance,29-1141,Registered Nurses,29-1141.00,Registered Nurses
+Finance,29-1141,Registered Nurses,29-1141.01,Acute Care Nurses
+Finance,29-1141,Registered Nurses,29-1141.02,Advanced Practice Psychiatric Nurses
+Finance,29-1141,Registered Nurses,29-1141.03,Critical Care Nurses
+Finance,29-1141,Registered Nurses,29-1141.04,Clinical Nurse Specialists
+Education,29-1151,Nurse Anesthetists,29-1151.00,Nurse Anesthetists
+Education,29-1161,Nurse Midwives,29-1161.00,Nurse Midwives
+Finance,29-1171,Nurse Practitioners,29-1171.00,Nurse Practitioners
+Education,29-1181,Audiologists,29-1181.00,Audiologists
+Education,29-1211,Anesthesiologists,29-1211.00,Anesthesiologists
+Education,29-1212,Cardiologists,29-1212.00,Cardiologists
+Education,29-1213,Dermatologists,29-1213.00,Dermatologists
+Education,29-1214,Emergency Medicine Physicians,29-1214.00,Emergency Medicine Physicians
+Education,29-1215,Family Medicine Physicians,29-1215.00,Family Medicine Physicians
+Education,29-1216,General Internal Medicine Physicians,29-1216.00,General Internal Medicine Physicians
+Education,29-1217,Neurologists,29-1217.00,Neurologists
+Education,29-1218,Obstetricians and Gynecologists,29-1218.00,Obstetricians and Gynecologists
+Education,29-1221,"Pediatricians, General",29-1221.00,"Pediatricians, General"
+Education,29-1222,"Physicians, Pathologists",29-1222.00,"Physicians, Pathologists"
+Education,29-1223,Psychiatrists,29-1223.00,Psychiatrists
+Education,29-1224,Radiologists,29-1224.00,Radiologists
+Finance,29-1229,"Physicians, All Other",29-1229.00,"Physicians, All Other"
+Finance,29-1229,"Physicians, All Other",29-1229.01,Allergists and Immunologists
+Finance,29-1229,"Physicians, All Other",29-1229.02,Hospitalists
+Finance,29-1229,"Physicians, All Other",29-1229.03,Urologists
+Finance,29-1229,"Physicians, All Other",29-1229.04,Physical Medicine and Rehabilitation Physicians
+Finance,29-1229,"Physicians, All Other",29-1229.05,Preventive Medicine Physicians
+Finance,29-1229,"Physicians, All Other",29-1229.06,Sports Medicine Physicians
+Education,29-1241,"Ophthalmologists, Except Pediatric",29-1241.00,"Ophthalmologists, Except Pediatric"
+Education,29-1242,"Orthopedic Surgeons, Except Pediatric",29-1242.00,"Orthopedic Surgeons, Except Pediatric"
+Education,29-1243,Pediatric Surgeons,29-1243.00,Pediatric Surgeons
+Education,29-1249,"Surgeons, All Other",29-1249.00,"Surgeons, All Other"
+Education,29-1291,Acupuncturists,29-1291.00,Acupuncturists
+Finance,29-1292,Dental Hygienists,29-1292.00,Dental Hygienists
+Finance,29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",29-1299.00,"Healthcare Diagnosing or Treating Practitioners, All Other"
+Finance,29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",29-1299.01,Naturopathic Physicians
+Finance,29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",29-1299.02,Orthoptists
+Education,29-2031,Cardiovascular Technologists and Technicians,29-2031.00,Cardiovascular Technologists and Technicians
+Education,29-2032,Diagnostic Medical Sonographers,29-2032.00,Diagnostic Medical Sonographers
+Education,29-2033,Nuclear Medicine Technologists,29-2033.00,Nuclear Medicine Technologists
+Education,29-2034,Radiologic Technologists and Technicians,29-2034.00,Radiologic Technologists and Technicians
+Education,29-2035,Magnetic Resonance Imaging Technologists,29-2035.00,Magnetic Resonance Imaging Technologists
+Education,29-2036,Medical Dosimetrists,29-2036.00,Medical Dosimetrists
+Education,29-2042,Emergency Medical Technicians,29-2042.00,Emergency Medical Technicians
+Education,29-2043,Paramedics,29-2043.00,Paramedics
+Education,29-2051,Dietetic Technicians,29-2051.00,Dietetic Technicians
+Finance,29-2052,Pharmacy Technicians,29-2052.00,Pharmacy Technicians
+Education,29-2053,Psychiatric Technicians,29-2053.00,Psychiatric Technicians
+Education,29-2055,Surgical Technologists,29-2055.00,Surgical Technologists
+Education,29-2056,Veterinary Technologists and Technicians,29-2056.00,Veterinary Technologists and Technicians
+Education,29-2057,Ophthalmic Medical Technicians,29-2057.00,Ophthalmic Medical Technicians
+Finance,29-2061,Licensed Practical and Licensed Vocational Nurses,29-2061.00,Licensed Practical and Licensed Vocational Nurses
+Finance,29-2072,Medical Records Specialists,29-2072.00,Medical Records Specialists
+Education,29-2081,"Opticians, Dispensing",29-2081.00,"Opticians, Dispensing"
+Education,29-2091,Orthotists and Prosthetists,29-2091.00,Orthotists and Prosthetists
+Education,29-2092,Hearing Aid Specialists,29-2092.00,Hearing Aid Specialists
+Finance,29-2099,"Health Technologists and Technicians, All Other",29-2099.00,"Health Technologists and Technicians, All Other"
+Finance,29-2099,"Health Technologists and Technicians, All Other",29-2099.01,Neurodiagnostic Technologists
+Finance,29-2099,"Health Technologists and Technicians, All Other",29-2099.05,Ophthalmic Medical Technologists
+Finance,29-2099,"Health Technologists and Technicians, All Other",29-2099.08,Patient Representatives
+Finance,29-9021,Health Information Technologists and Medical Registrars,29-9021.00,Health Information Technologists and Medical Registrars
+Education,29-9091,Athletic Trainers,29-9091.00,Athletic Trainers
+Finance,29-9092,Genetic Counselors,29-9092.00,Genetic Counselors
+Education,29-9093,Surgical Assistants,29-9093.00,Surgical Assistants
+Finance,29-9099,"Healthcare Practitioners and Technical Workers, All Other",29-9099.00,"Healthcare Practitioners and Technical Workers, All Other"
+Finance,29-9099,"Healthcare Practitioners and Technical Workers, All Other",29-9099.01,Midwives
+Finance,31-1131,Nursing Assistants,31-1131.00,Nursing Assistants
+Education,31-1132,Orderlies,31-1132.00,Orderlies
+Finance,31-1133,Psychiatric Aides,31-1133.00,Psychiatric Aides
+Education,31-2011,Occupational Therapy Assistants,31-2011.00,Occupational Therapy Assistants
+Education,31-2012,Occupational Therapy Aides,31-2012.00,Occupational Therapy Aides
+Education,31-2021,Physical Therapist Assistants,31-2021.00,Physical Therapist Assistants
+Education,31-2022,Physical Therapist Aides,31-2022.00,Physical Therapist Aides
+Education,31-9011,Massage Therapists,31-9011.00,Massage Therapists
+Finance,31-9091,Dental Assistants,31-9091.00,Dental Assistants
+Finance,31-9092,Medical Assistants,31-9092.00,Medical Assistants
+Education,31-9093,Medical Equipment Preparers,31-9093.00,Medical Equipment Preparers
+Finance,31-9094,Medical Transcriptionists,31-9094.00,Medical Transcriptionists
+Finance,31-9095,Pharmacy Aides,31-9095.00,Pharmacy Aides
+Education,31-9096,Veterinary Assistants and Laboratory Animal Caretakers,31-9096.00,Veterinary Assistants and Laboratory Animal Caretakers
+Finance,31-9097,Phlebotomists,31-9097.00,Phlebotomists
+Finance,31-9099,"Healthcare Support Workers, All Other",31-9099.00,"Healthcare Support Workers, All Other"
+Finance,31-9099,"Healthcare Support Workers, All Other",31-9099.01,Speech-Language Pathology Assistants
+Finance,31-9099,"Healthcare Support Workers, All Other",31-9099.02,Endoscopy Technicians
+Healthcare,33-1011,First-Line Supervisors of Correctional Officers,33-1011.00,First-Line Supervisors of Correctional Officers
+Education,33-1012,First-Line Supervisors of Police and Detectives,33-1012.00,First-Line Supervisors of Police and Detectives
+Education,33-1021,First-Line Supervisors of Firefighting and Prevention Workers,33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers
+Finance,33-1091,First-Line Supervisors of Security Workers,33-1091.00,First-Line Supervisors of Security Workers
+Finance,33-1099,"First-Line Supervisors of Protective Service Workers, All Other",33-1099.00,"First-Line Supervisors of Protective Service Workers, All Other"
+Education,33-2011,Firefighters,33-2011.00,Firefighters
+Finance,33-2021,Fire Inspectors and Investigators,33-2021.00,Fire Inspectors and Investigators
+Healthcare,33-3012,Correctional Officers and Jailers,33-3012.00,Correctional Officers and Jailers
+Education,33-3021,Detectives and Criminal Investigators,33-3021.00,Detectives and Criminal Investigators
+Education,33-3021,Detectives and Criminal Investigators,33-3021.02,Police Identification and Records Officers
+Education,33-3021,Detectives and Criminal Investigators,33-3021.06,Intelligence Analysts
+Education,33-3041,Parking Enforcement Workers,33-3041.00,Parking Enforcement Workers
+Education,33-3051,Police and Sheriff's Patrol Officers,33-3051.00,Police and Sheriff's Patrol Officers
+Education,33-3051,Police and Sheriff's Patrol Officers,33-3051.04,Customs and Border Protection Officers
+Finance,33-9021,Private Detectives and Investigators,33-9021.00,Private Detectives and Investigators
+Finance,33-9032,Security Guards,33-9032.00,Security Guards
+Education,33-9091,Crossing Guards and Flaggers,33-9091.00,Crossing Guards and Flaggers
+Education,33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",33-9092.00,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
+Education,33-9094,School Bus Monitors,33-9094.00,School Bus Monitors
+Finance,33-9099,"Protective Service Workers, All Other",33-9099.00,"Protective Service Workers, All Other"
+Finance,33-9099,"Protective Service Workers, All Other",33-9099.02,Retail Loss Prevention Specialists
+Finance,35-1011,Chefs and Head Cooks,35-1011.00,Chefs and Head Cooks
+Finance,35-1012,First-Line Supervisors of Food Preparation and Serving Workers,35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers
+Education,35-2011,"Cooks, Fast Food",35-2011.00,"Cooks, Fast Food"
+Finance,35-2012,"Cooks, Institution and Cafeteria",35-2012.00,"Cooks, Institution and Cafeteria"
+Finance,35-2014,"Cooks, Restaurant",35-2014.00,"Cooks, Restaurant"
+Education,35-2015,"Cooks, Short Order",35-2015.00,"Cooks, Short Order"
+Education,35-2019,"Cooks, All Other",35-2019.00,"Cooks, All Other"
+Finance,35-2021,Food Preparation Workers,35-2021.00,Food Preparation Workers
+Education,35-3011,Bartenders,35-3011.00,Bartenders
+Finance,35-3023,Fast Food and Counter Workers,35-3023.00,Fast Food and Counter Workers
+Finance,35-3023,Fast Food and Counter Workers,35-3023.01,Baristas
+Education,35-3031,Waiters and Waitresses,35-3031.00,Waiters and Waitresses
+Education,35-3041,"Food Servers, Nonrestaurant",35-3041.00,"Food Servers, Nonrestaurant"
+Finance,35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers
+Education,35-9021,Dishwashers,35-9021.00,Dishwashers
+Education,35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+Education,35-9099,"Food Preparation and Serving Related Workers, All Other",35-9099.00,"Food Preparation and Serving Related Workers, All Other"
+Finance,37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers
+Education,37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+Finance,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+Education,37-2012,Maids and Housekeeping Cleaners,37-2012.00,Maids and Housekeeping Cleaners
+Education,37-2019,"Building Cleaning Workers, All Other",37-2019.00,"Building Cleaning Workers, All Other"
+Education,37-2021,Pest Control Workers,37-2021.00,Pest Control Workers
+Finance,37-3011,Landscaping and Groundskeeping Workers,37-3011.00,Landscaping and Groundskeeping Workers
+Education,37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+Education,37-3013,Tree Trimmers and Pruners,37-3013.00,Tree Trimmers and Pruners
+Education,37-3019,"Grounds Maintenance Workers, All Other",37-3019.00,"Grounds Maintenance Workers, All Other"
+Education,39-1014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",39-1014.00,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services"
+Education,39-1022,First-Line Supervisors of Personal Service Workers,39-1022.00,First-Line Supervisors of Personal Service Workers
+Education,39-2011,Animal Trainers,39-2011.00,Animal Trainers
+Education,39-2021,Animal Caretakers,39-2021.00,Animal Caretakers
+Healthcare,39-3012,Gambling and Sports Book Writers and Runners,39-3012.00,Gambling and Sports Book Writers and Runners
+Education,39-3021,Motion Picture Projectionists,39-3021.00,Motion Picture Projectionists
+Education,39-3031,"Ushers, Lobby Attendants, and Ticket Takers",39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers"
+Education,39-3091,Amusement and Recreation Attendants,39-3091.00,Amusement and Recreation Attendants
+Education,39-3092,Costume Attendants,39-3092.00,Costume Attendants
+Education,39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",39-3093.00,"Locker Room, Coatroom, and Dressing Room Attendants"
+Education,39-3099,"Entertainment Attendants and Related Workers, All Other",39-3099.00,"Entertainment Attendants and Related Workers, All Other"
+Education,39-4011,Embalmers,39-4011.00,Embalmers
+Education,39-4031,"Morticians, Undertakers, and Funeral Arrangers",39-4031.00,"Morticians, Undertakers, and Funeral Arrangers"
+Healthcare,39-5011,Barbers,39-5011.00,Barbers
+Education,39-5012,"Hairdressers, Hairstylists, and Cosmetologists",39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists"
+Education,39-5091,"Makeup Artists, Theatrical and Performance",39-5091.00,"Makeup Artists, Theatrical and Performance"
+Healthcare,39-5092,Manicurists and Pedicurists,39-5092.00,Manicurists and Pedicurists
+Education,39-5094,Skincare Specialists,39-5094.00,Skincare Specialists
+Healthcare,39-6011,Baggage Porters and Bellhops,39-6011.00,Baggage Porters and Bellhops
+Finance,39-6012,Concierges,39-6012.00,Concierges
+Education,39-9011,Childcare Workers,39-9011.00,Childcare Workers
+Education,39-9011,Childcare Workers,39-9011.01,Nannies
+Finance,39-9031,Exercise Trainers and Group Fitness Instructors,39-9031.00,Exercise Trainers and Group Fitness Instructors
+Education,39-9032,Recreation Workers,39-9032.00,Recreation Workers
+Education,39-9041,Residential Advisors,39-9041.00,Residential Advisors
+Finance,39-9099,"Personal Care and Service Workers, All Other",39-9099.00,"Personal Care and Service Workers, All Other"
+Finance,41-1011,First-Line Supervisors of Retail Sales Workers,41-1011.00,First-Line Supervisors of Retail Sales Workers
+Finance,41-1012,First-Line Supervisors of Non-Retail Sales Workers,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers
+Finance,41-2011,Cashiers,41-2011.00,Cashiers
+Education,41-2021,Counter and Rental Clerks,41-2021.00,Counter and Rental Clerks
+Finance,41-2031,Retail Salespersons,41-2031.00,Retail Salespersons
+Finance,41-3011,Advertising Sales Agents,41-3011.00,Advertising Sales Agents
+Finance,41-3021,Insurance Sales Agents,41-3021.00,Insurance Sales Agents
+Finance,41-3031,"Securities, Commodities, and Financial Services Sales Agents",41-3031.00,"Securities, Commodities, and Financial Services Sales Agents"
+Finance,41-3041,Travel Agents,41-3041.00,Travel Agents
+Finance,41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",41-3091.00,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
+Education,41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+Education,41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.07,Solar Sales Representatives and Assessors
+Finance,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+Education,41-9011,Demonstrators and Product Promoters,41-9011.00,Demonstrators and Product Promoters
+Education,41-9012,Models,41-9012.00,Models
+Finance,41-9021,Real Estate Brokers,41-9021.00,Real Estate Brokers
+Finance,41-9022,Real Estate Sales Agents,41-9022.00,Real Estate Sales Agents
+Finance,41-9031,Sales Engineers,41-9031.00,Sales Engineers
+Finance,41-9041,Telemarketers,41-9041.00,Telemarketers
+Finance,41-9099,"Sales and Related Workers, All Other",41-9099.00,"Sales and Related Workers, All Other"
+Finance,43-1011,First-Line Supervisors of Office and Administrative Support Workers,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers
+Finance,43-2011,"Switchboard Operators, Including Answering Service",43-2011.00,"Switchboard Operators, Including Answering Service"
+Finance,43-2021,Telephone Operators,43-2021.00,Telephone Operators
+Finance,43-2099,"Communications Equipment Operators, All Other",43-2099.00,"Communications Equipment Operators, All Other"
+Finance,43-3011,Bill and Account Collectors,43-3011.00,Bill and Account Collectors
+Finance,43-3021,Billing and Posting Clerks,43-3021.00,Billing and Posting Clerks
+Finance,43-3031,"Bookkeeping, Accounting, and Auditing Clerks",43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks"
+Finance,43-3051,Payroll and Timekeeping Clerks,43-3051.00,Payroll and Timekeeping Clerks
+Finance,43-3061,Procurement Clerks,43-3061.00,Procurement Clerks
+Finance,43-3071,Tellers,43-3071.00,Tellers
+Finance,43-3099,"Financial Clerks, All Other",43-3099.00,"Financial Clerks, All Other"
+Finance,43-4011,Brokerage Clerks,43-4011.00,Brokerage Clerks
+Finance,43-4021,Correspondence Clerks,43-4021.00,Correspondence Clerks
+Healthcare,43-4031,"Court, Municipal, and License Clerks",43-4031.00,"Court, Municipal, and License Clerks"
+Finance,43-4041,"Credit Authorizers, Checkers, and Clerks",43-4041.00,"Credit Authorizers, Checkers, and Clerks"
+Finance,43-4051,Customer Service Representatives,43-4051.00,Customer Service Representatives
+Finance,43-4061,"Eligibility Interviewers, Government Programs",43-4061.00,"Eligibility Interviewers, Government Programs"
+Finance,43-4071,File Clerks,43-4071.00,File Clerks
+Education,43-4081,"Hotel, Motel, and Resort Desk Clerks",43-4081.00,"Hotel, Motel, and Resort Desk Clerks"
+Finance,43-4111,"Interviewers, Except Eligibility and Loan",43-4111.00,"Interviewers, Except Eligibility and Loan"
+Education,43-4121,"Library Assistants, Clerical",43-4121.00,"Library Assistants, Clerical"
+Finance,43-4131,Loan Interviewers and Clerks,43-4131.00,Loan Interviewers and Clerks
+Finance,43-4141,New Accounts Clerks,43-4141.00,New Accounts Clerks
+Finance,43-4151,Order Clerks,43-4151.00,Order Clerks
+Finance,43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping"
+Finance,43-4171,Receptionists and Information Clerks,43-4171.00,Receptionists and Information Clerks
+Healthcare,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,43-4181.00,Reservation and Transportation Ticket Agents and Travel Clerks
+Finance,43-4199,"Information and Record Clerks, All Other",43-4199.00,"Information and Record Clerks, All Other"
+Finance,43-5021,Couriers and Messengers,43-5021.00,Couriers and Messengers
+Education,43-5031,Public Safety Telecommunicators,43-5031.00,Public Safety Telecommunicators
+Finance,43-5032,"Dispatchers, Except Police, Fire, and Ambulance",43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance"
+Finance,43-5061,"Production, Planning, and Expediting Clerks",43-5061.00,"Production, Planning, and Expediting Clerks"
+Finance,43-5071,"Shipping, Receiving, and Inventory Clerks",43-5071.00,"Shipping, Receiving, and Inventory Clerks"
+Education,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",43-5111.00,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+Finance,43-6011,Executive Secretaries and Executive Administrative Assistants,43-6011.00,Executive Secretaries and Executive Administrative Assistants
+Finance,43-6012,Legal Secretaries and Administrative Assistants,43-6012.00,Legal Secretaries and Administrative Assistants
+Finance,43-6013,Medical Secretaries and Administrative Assistants,43-6013.00,Medical Secretaries and Administrative Assistants
+Finance,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+Finance,43-9021,Data Entry Keyers,43-9021.00,Data Entry Keyers
+Finance,43-9022,Word Processors and Typists,43-9022.00,Word Processors and Typists
+Finance,43-9031,Desktop Publishers,43-9031.00,Desktop Publishers
+Finance,43-9041,Insurance Claims and Policy Processing Clerks,43-9041.00,Insurance Claims and Policy Processing Clerks
+Finance,43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",43-9051.00,"Mail Clerks and Mail Machine Operators, Except Postal Service"
+Finance,43-9061,"Office Clerks, General",43-9061.00,"Office Clerks, General"
+Finance,43-9071,"Office Machine Operators, Except Computer",43-9071.00,"Office Machine Operators, Except Computer"
+Finance,43-9081,Proofreaders and Copy Markers,43-9081.00,Proofreaders and Copy Markers
+Finance,43-9111,Statistical Assistants,43-9111.00,Statistical Assistants
+Finance,43-9199,"Office and Administrative Support Workers, All Other",43-9199.00,"Office and Administrative Support Workers, All Other"
+Finance,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+Education,45-2011,Agricultural Inspectors,45-2011.00,Agricultural Inspectors
+Education,45-2091,Agricultural Equipment Operators,45-2091.00,Agricultural Equipment Operators
+Finance,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+Finance,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+Education,45-2099,"Agricultural Workers, All Other",45-2099.00,"Agricultural Workers, All Other"
+Education,45-4011,Forest and Conservation Workers,45-4011.00,Forest and Conservation Workers
+Finance,45-4022,Logging Equipment Operators,45-4022.00,Logging Equipment Operators
+Finance,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers
+Finance,47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011.03,Solar Energy Installation Managers
+Education,47-2011,Boilermakers,47-2011.00,Boilermakers
+Education,47-2021,Brickmasons and Blockmasons,47-2021.00,Brickmasons and Blockmasons
+Finance,47-2031,Carpenters,47-2031.00,Carpenters
+Education,47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",47-2042.00,"Floor Layers, Except Carpet, Wood, and Hard Tiles"
+Education,47-2044,Tile and Stone Setters,47-2044.00,Tile and Stone Setters
+Education,47-2051,Cement Masons and Concrete Finishers,47-2051.00,Cement Masons and Concrete Finishers
+Finance,47-2061,Construction Laborers,47-2061.00,Construction Laborers
+Finance,47-2073,Operating Engineers and Other Construction Equipment Operators,47-2073.00,Operating Engineers and Other Construction Equipment Operators
+Education,47-2081,Drywall and Ceiling Tile Installers,47-2081.00,Drywall and Ceiling Tile Installers
+Finance,47-2111,Electricians,47-2111.00,Electricians
+Education,47-2121,Glaziers,47-2121.00,Glaziers
+Healthcare,47-2131,"Insulation Workers, Floor, Ceiling, and Wall",47-2131.00,"Insulation Workers, Floor, Ceiling, and Wall"
+Education,47-2141,"Painters, Construction and Maintenance",47-2141.00,"Painters, Construction and Maintenance"
+Education,47-2151,Pipelayers,47-2151.00,Pipelayers
+Education,47-2152,"Plumbers, Pipefitters, and Steamfitters",47-2152.00,"Plumbers, Pipefitters, and Steamfitters"
+Education,47-2152,"Plumbers, Pipefitters, and Steamfitters",47-2152.04,Solar Thermal Installers and Technicians
+Education,47-2161,Plasterers and Stucco Masons,47-2161.00,Plasterers and Stucco Masons
+Education,47-2181,Roofers,47-2181.00,Roofers
+Education,47-2211,Sheet Metal Workers,47-2211.00,Sheet Metal Workers
+Education,47-2221,Structural Iron and Steel Workers,47-2221.00,Structural Iron and Steel Workers
+Education,47-3012,Helpers--Carpenters,47-3012.00,Helpers--Carpenters
+Education,47-3013,Helpers--Electricians,47-3013.00,Helpers--Electricians
+Education,47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",47-3015.00,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+Education,47-3019,"Helpers, Construction Trades, All Other",47-3019.00,"Helpers, Construction Trades, All Other"
+Finance,47-4011,Construction and Building Inspectors,47-4011.00,Construction and Building Inspectors
+Finance,47-4011,Construction and Building Inspectors,47-4011.01,Energy Auditors
+Education,47-4021,Elevator and Escalator Installers and Repairers,47-4021.00,Elevator and Escalator Installers and Repairers
+Education,47-4041,Hazardous Materials Removal Workers,47-4041.00,Hazardous Materials Removal Workers
+Finance,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+Finance,49-2011,"Computer, Automated Teller, and Office Machine Repairers",49-2011.00,"Computer, Automated Teller, and Office Machine Repairers"
+Finance,49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers"
+Education,49-2091,Avionics Technicians,49-2091.00,Avionics Technicians
+Education,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+Education,49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+Education,49-2097,Audiovisual Equipment Installers and Repairers,49-2097.00,Audiovisual Equipment Installers and Repairers
+Education,49-2098,Security and Fire Alarm Systems Installers,49-2098.00,Security and Fire Alarm Systems Installers
+Finance,49-3011,Aircraft Mechanics and Service Technicians,49-3011.00,Aircraft Mechanics and Service Technicians
+Finance,49-3021,Automotive Body and Related Repairers,49-3021.00,Automotive Body and Related Repairers
+Finance,49-3023,Automotive Service Technicians and Mechanics,49-3023.00,Automotive Service Technicians and Mechanics
+Education,49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,49-3031.00,Bus and Truck Mechanics and Diesel Engine Specialists
+Education,49-3041,Farm Equipment Mechanics and Service Technicians,49-3041.00,Farm Equipment Mechanics and Service Technicians
+Education,49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines"
+Education,49-3051,Motorboat Mechanics and Service Technicians,49-3051.00,Motorboat Mechanics and Service Technicians
+Education,49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,49-3053.00,Outdoor Power Equipment and Other Small Engine Mechanics
+Education,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",49-9012.00,"Control and Valve Installers and Repairers, Except Mechanical Door"
+Finance,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+Education,49-9031,Home Appliance Repairers,49-9031.00,Home Appliance Repairers
+Finance,49-9041,Industrial Machinery Mechanics,49-9041.00,Industrial Machinery Mechanics
+Education,49-9043,"Maintenance Workers, Machinery",49-9043.00,"Maintenance Workers, Machinery"
+Education,49-9052,Telecommunications Line Installers and Repairers,49-9052.00,Telecommunications Line Installers and Repairers
+Education,49-9061,Camera and Photographic Equipment Repairers,49-9061.00,Camera and Photographic Equipment Repairers
+Education,49-9062,Medical Equipment Repairers,49-9062.00,Medical Equipment Repairers
+Education,49-9063,Musical Instrument Repairers and Tuners,49-9063.00,Musical Instrument Repairers and Tuners
+Education,49-9069,"Precision Instrument and Equipment Repairers, All Other",49-9069.00,"Precision Instrument and Equipment Repairers, All Other"
+Finance,49-9071,"Maintenance and Repair Workers, General",49-9071.00,"Maintenance and Repair Workers, General"
+Education,49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",49-9091.00,"Coin, Vending, and Amusement Machine Servicers and Repairers"
+Education,49-9094,Locksmiths and Safe Repairers,49-9094.00,Locksmiths and Safe Repairers
+Education,49-9096,Riggers,49-9096.00,Riggers
+Finance,49-9098,"Helpers--Installation, Maintenance, and Repair Workers",49-9098.00,"Helpers--Installation, Maintenance, and Repair Workers"
+Finance,49-9099,"Installation, Maintenance, and Repair Workers, All Other",49-9099.00,"Installation, Maintenance, and Repair Workers, All Other"
+Finance,49-9099,"Installation, Maintenance, and Repair Workers, All Other",49-9099.01,Geothermal Technicians
+Finance,51-1011,First-Line Supervisors of Production and Operating Workers,51-1011.00,First-Line Supervisors of Production and Operating Workers
+Education,51-3011,Bakers,51-3011.00,Bakers
+Education,51-3092,Food Batchmakers,51-3092.00,Food Batchmakers
+Healthcare,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+Healthcare,51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4033.00,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+Education,51-4041,Machinists,51-4041.00,Machinists
+Healthcare,51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4081.00,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+Education,51-4111,Tool and Die Makers,51-4111.00,Tool and Die Makers
+Education,51-4121,"Welders, Cutters, Solderers, and Brazers",51-4121.00,"Welders, Cutters, Solderers, and Brazers"
+Finance,51-5111,Prepress Technicians and Workers,51-5111.00,Prepress Technicians and Workers
+Finance,51-5112,Printing Press Operators,51-5112.00,Printing Press Operators
+Education,51-5113,Print Binding and Finishing Workers,51-5113.00,Print Binding and Finishing Workers
+Education,51-6011,Laundry and Dry-Cleaning Workers,51-6011.00,Laundry and Dry-Cleaning Workers
+Education,51-6031,Sewing Machine Operators,51-6031.00,Sewing Machine Operators
+Education,51-6052,"Tailors, Dressmakers, and Custom Sewers",51-6052.00,"Tailors, Dressmakers, and Custom Sewers"
+Healthcare,51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",51-6062.00,"Textile Cutting Machine Setters, Operators, and Tenders"
+Education,51-6093,Upholsterers,51-6093.00,Upholsterers
+Healthcare,51-6099,"Textile, Apparel, and Furnishings Workers, All Other",51-6099.00,"Textile, Apparel, and Furnishings Workers, All Other"
+Education,51-7011,Cabinetmakers and Bench Carpenters,51-7011.00,Cabinetmakers and Bench Carpenters
+Healthcare,51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",51-7042.00,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+Healthcare,51-7099,"Woodworkers, All Other",51-7099.00,"Woodworkers, All Other"
+Education,51-8012,Power Distributors and Dispatchers,51-8012.00,Power Distributors and Dispatchers
+Education,51-8013,Power Plant Operators,51-8013.00,Power Plant Operators
+Education,51-8013,Power Plant Operators,51-8013.03,Biomass Plant Technicians
+Education,51-8013,Power Plant Operators,51-8013.04,Hydroelectric Plant Technicians
+Finance,51-8021,Stationary Engineers and Boiler Operators,51-8021.00,Stationary Engineers and Boiler Operators
+Education,51-8031,Water and Wastewater Treatment Plant and System Operators,51-8031.00,Water and Wastewater Treatment Plant and System Operators
+Education,51-8099,"Plant and System Operators, All Other",51-8099.00,"Plant and System Operators, All Other"
+Education,51-8099,"Plant and System Operators, All Other",51-8099.01,Biofuels Processing Technicians
+Education,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",51-9012.00,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+Healthcare,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",51-9032.00,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+Education,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",51-9051.00,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+Finance,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+Finance,51-9071,Jewelers and Precious Stone and Metal Workers,51-9071.00,Jewelers and Precious Stone and Metal Workers
+Finance,51-9071,Jewelers and Precious Stone and Metal Workers,51-9071.06,Gem and Diamond Workers
+Education,51-9081,Dental Laboratory Technicians,51-9081.00,Dental Laboratory Technicians
+Healthcare,51-9082,Medical Appliance Technicians,51-9082.00,Medical Appliance Technicians
+Healthcare,51-9083,Ophthalmic Laboratory Technicians,51-9083.00,Ophthalmic Laboratory Technicians
+Healthcare,51-9111,Packaging and Filling Machine Operators and Tenders,51-9111.00,Packaging and Filling Machine Operators and Tenders
+Education,51-9151,Photographic Process Workers and Processing Machine Operators,51-9151.00,Photographic Process Workers and Processing Machine Operators
+Education,51-9161,Computer Numerically Controlled Tool Operators,51-9161.00,Computer Numerically Controlled Tool Operators
+Education,51-9198,Helpers--Production Workers,51-9198.00,Helpers--Production Workers
+Education,51-9199,"Production Workers, All Other",51-9199.00,"Production Workers, All Other"
+Education,53-2011,"Airline Pilots, Copilots, and Flight Engineers",53-2011.00,"Airline Pilots, Copilots, and Flight Engineers"
+Finance,53-2012,Commercial Pilots,53-2012.00,Commercial Pilots
+Education,53-2021,Air Traffic Controllers,53-2021.00,Air Traffic Controllers
+Education,53-2022,Airfield Operations Specialists,53-2022.00,Airfield Operations Specialists
+Finance,53-2031,Flight Attendants,53-2031.00,Flight Attendants
+Healthcare,53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",53-3011.00,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+Education,53-3031,Driver/Sales Workers,53-3031.00,Driver/Sales Workers
+Finance,53-3032,Heavy and Tractor-Trailer Truck Drivers,53-3032.00,Heavy and Tractor-Trailer Truck Drivers
+Finance,53-3033,Light Truck Drivers,53-3033.00,Light Truck Drivers
+Education,53-3051,"Bus Drivers, School",53-3051.00,"Bus Drivers, School"
+Education,53-3052,"Bus Drivers, Transit and Intercity",53-3052.00,"Bus Drivers, Transit and Intercity"
+Finance,53-3053,Shuttle Drivers and Chauffeurs,53-3053.00,Shuttle Drivers and Chauffeurs
+Healthcare,53-3054,Taxi Drivers,53-3054.00,Taxi Drivers
+Finance,53-3099,"Motor Vehicle Operators, All Other",53-3099.00,"Motor Vehicle Operators, All Other"
+Education,53-5011,Sailors and Marine Oilers,53-5011.00,Sailors and Marine Oilers
+Education,53-5021,"Captains, Mates, and Pilots of Water Vessels",53-5021.00,"Captains, Mates, and Pilots of Water Vessels"
+Education,53-5022,Motorboat Operators,53-5022.00,Motorboat Operators
+Education,53-5031,Ship Engineers,53-5031.00,Ship Engineers
+Education,53-6021,Parking Attendants,53-6021.00,Parking Attendants
+Education,53-6031,Automotive and Watercraft Service Attendants,53-6031.00,Automotive and Watercraft Service Attendants
+Education,53-6032,Aircraft Service Attendants,53-6032.00,Aircraft Service Attendants
+Education,53-6061,Passenger Attendants,53-6061.00,Passenger Attendants
+Education,53-6099,"Transportation Workers, All Other",53-6099.00,"Transportation Workers, All Other"
+Finance,53-7011,Conveyor Operators and Tenders,53-7011.00,Conveyor Operators and Tenders
+Finance,53-7051,Industrial Truck and Tractor Operators,53-7051.00,Industrial Truck and Tractor Operators
+Finance,53-7061,Cleaners of Vehicles and Equipment,53-7061.00,Cleaners of Vehicles and Equipment
+Finance,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand"
+Finance,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062.04,Recycling and Reclamation Workers
+Education,53-7064,"Packers and Packagers, Hand",53-7064.00,"Packers and Packagers, Hand"
+Finance,53-7065,Stockers and Order Fillers,53-7065.00,Stockers and Order Fillers
+Education,53-7081,Refuse and Recyclable Material Collectors,53-7081.00,Refuse and Recyclable Material Collectors
+Education,53-7199,"Material Moving Workers, All Other",53-7199.00,"Material Moving Workers, All Other"
