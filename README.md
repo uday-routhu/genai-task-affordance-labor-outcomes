@@ -48,7 +48,7 @@ Run the cells from top to bottom in:
 - [Model_Analysis.ipynb](09_RQ1_Analysis/Code/Model_Analysis.ipynb): descriptive summaries, employment and wage models, and sector heterogeneity analyses.
 - [Robustness_Tests.ipynb](09_RQ1_Analysis/Code/Robustness_Tests.ipynb): supporting robustness checks.
 
-Both notebooks independently load the prepared datasets supplied in folders 05, 07, and 08. **Task classification and data preparation do not need to be rerun to use these inputs.** Results are displayed in the notebooks; the main notebook also saves a figure in `09_RQ1_Analysis/Figures/`.
+Both notebooks independently load the prepared datasets supplied in folders 05, 07, and 08. **Task classification and data preparation do not need to be rerun to use these inputs.**
 
 ### Data preparation and audit notebooks
 
