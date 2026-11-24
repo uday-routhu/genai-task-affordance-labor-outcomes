@@ -1,6 +1,6 @@
 # GenAI Task Affordances and Labor Outcomes
 
-Code and data for **“Beyond Aggregate GenAI Exposure: Associations Between Task-Affordance Configurations and Employment and Wage Growth”** by Udayakumar Routhu, Capitol Technology University.
+Code and data for **“Beyond Aggregate GenAI Exposure: Associations Between Task-Affordance Configurations and Employment and Wage Growth”**.
 
 The study asks whether the tasks GenAI could automate or support, and how important those tasks are within an occupation, help explain differences in U.S. occupational employment and wage growth beyond aggregate GenAI exposure.
 
